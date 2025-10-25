@@ -41,20 +41,27 @@ pip install -r requirements.txt
 ```
 Obesity/
 ├── code/
-│   └── Obesitty_Data_Collection.ipynb    # Download WHO indicator data
+│   └── Obesitty_Data_Collection.ipynb         # Download WHO indicator data
 ├── data/
-│   ├── who_data_part*.csv                # WHO data (split into <75MB files)
-│   ├── indicator_catalog.csv             # Catalog of all indicators
-│   └── obesity_related_indicators.csv    # List of 808 obesity indicators
+│   ├── who_obesity_data.csv                   # Main WHO dataset (~689 MB, tracked via LFS)
+│   ├── who_obesity_core_data.csv              # Core obesity data (~24 MB)
+│   ├── who_obesity_core_indicators.csv        # Core indicator definitions
+│   ├── who_indicators_all.csv                 # Complete indicator catalog
+│   ├── who_indicators_obesity_related.csv     # Obesity-related indicators
+│   ├── indicators_downloaded_log.csv          # Download tracking log
+│   └── Gross national income per capita.csv   # GNI per capita data
 └── requirements.txt
 ```
 
 ## Data Files
 
-The project uses WHO Global Health Observatory data split into multiple files:
-- **Part files** (`who_data_part1.csv`, etc.) - Main dataset split to stay under 75 MB each
-- **Indicator catalog** - Tracks all indicators and their data availability
-- **Obesity indicators** - Curated list of 808 obesity-related indicators
+The project uses WHO Global Health Observatory data:
+- **who_obesity_data.csv** - Main dataset (~689 MB, managed with Git LFS)
+- **who_obesity_core_data.csv** - Core obesity data subset (~24 MB)
+- **who_obesity_core_indicators.csv** - Core indicator definitions
+- **who_indicators_all.csv** - Complete catalog of all WHO indicators
+- **who_indicators_obesity_related.csv** - Curated list of obesity-related indicators
+- **indicators_downloaded_log.csv** - Tracks download history and data availability
 
 
 
