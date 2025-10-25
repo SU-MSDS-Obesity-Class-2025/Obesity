@@ -1,0 +1,809 @@
+IndicatorCode,IndicatorName,Language
+AIR_3_1,Percent of urban inhabitants living in cities covered by PM measurements,EN
+E_Group,"Enforcing bans on tobacco advertising, promotion and sponsorship",EN
+E13_brand_placement,Ban on appearance of tobacco brands in TV and/or films (product placement),EN
+BP_03,Raised blood pressure (SBP>=140 OR DBP>=90) (crude estimate),EN
+BP_04,Raised blood pressure (SBP>=140 OR DBP>=90) (age-standardized estimate),EN
+Camp_gov_prog,Campaign was part of a comprehensive tobacco control programme,EN
+E14_prod_tv_films,Appearance of tobacco products in TV and/or films,EN
+E16_csr_promo_self,Ban on tobacco companies/tobacco industry publicizing their “Corporate Social Responsibility” activities,EN
+E19_movies_anti_tob_ads,"Required anti-tobacco ads for any visual entertainment media product that depicts tobacco products, use or images",EN
+CCO_WHS9_85,Literacy rate among adults aged >= 15 years (%),EN
+E11_brand_stretching,Ban on non-tobacco goods AND services identified with tobacco brand names,EN
+E11_compliance,Compliance of ban on non-tobacco goods AND services identified with tobacco brand names,EN
+E12_brand_sharing,Ban on brand name of non-tobacco products used for tobacco product,EN
+E12_compliance,Compliance of ban on brand name of non-tobacco products used for tobacco product,EN
+E13_compliance,Compliance of ban on appearance of tobacco brands in TV and/or films (product placement),EN
+E14_compliance,Compliance of ban on appearance of tobacco products in TV and/or films,EN
+E14b_movies_anti_tob_ads,"Requirement to present prescribed anti-tobacco ads before, during or after the broadcasting or showing of any visual entertainment media product that depicts tobacco products, use or images",EN
+E14a_prod_tv_films,Ban on appearance of tobacco products in TV and/or films,EN
+E15c_sponsor_publicity,"Banning the publicity of financial or other sponsorship or support by the tobacco industry of events, activities, individuals",EN
+E17_csr_promo_others,Ban on entities other than tobacco companies/tobacco industry publicizing the Corporate Social Responsibility activities of the tobacco companies,EN
+E22_subnational_exists,"Subnational bans on tobacco advertising, promotion and sponsorship",EN
+E25_ban_display_pt_of_sale,Ban on display of tobacco products at points of sale,EN
+E6b_ban_display_pt_of_sale,Ban on display of tobacco products at points of sale,EN
+E9_compliance,Compliance of ban on free distribution of tobacco products in the mail or through other means,EN
+E9_free_distrib,Ban on free distribution of tobacco products in the mail or through other means,EN
+E21_vending_machines,Complete ban on tobacco vending machines,EN
+E24_internet_sales_ban,Ban on internet sales of tobacco products,EN
+BP_05,Mean systolic blood pressure (crude estimate),EN
+BP_06,Mean systolic blood pressure (age-standardized estimate),EN
+CCO_1,Poverty headcount ratio at $1.25 a day (PPP) (% of population),EN
+DEVICES03,Total density per 100 000 population: District/rural hospitals,EN
+FINPROTECTION_CATA_ESTIMATE_AVAILABLE,Availability of estimates on large  health expenditures as a share of total expenditure or income,EN
+E18_csr_anti_tobacco_media,"Ban on tobacco companies funding or making contributions (including in-kind contributions) to smoking prevention media campaigns, including those directed at youth",EN
+E20_subnational_exists,"Subnational laws or regulations exist banning some or all types of tobacco advertising, promotion and sponsorship",EN
+EQ_OVERWEIGHTADULT,Prevalence of overweight and obesity,EN
+FINPROTECTION_IMP_NP_190_LEVEL_MILLION,Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (millions),EN
+FINPROTECTION_IMP_NP190_POP,Population  pushed below the $1.90 a day  poverty line by household  health expenditures (%),EN
+FINPROTECTION_IMP_NP_190_LEVEL_SH,Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (%),EN
+NUTRITION_ANT_WHZ_NE2,"Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), survey-based estimates",EN
+NUTOVERWEIGHTNUM,"Overweight numbers among children under 5 years of age (thousands), model-based estimates",EN
+NUTRITION_2005,Proportion of children aged 6-23 months who receive a minimum acceptable diet,EN
+O_Avail_hlth_clin,Treatment for tobacco dependence available in health clinics or other primary care facilities,EN
+O_Avail_community,Treatment for tobacco dependence available in the community,EN
+O_Avail_hosp,Treatment for tobacco dependence available in hospitals,EN
+O_Avail_off_hlth_prof,Treatment for tobacco dependence available in offices of health professionals,EN
+O_Ins_off_hlth_prof,Treatment for tobacco dependence in offices of health professionals cost covered,EN
+O_Ins_hosp,Treatment for tobacco dependence in hospitals cost covered,EN
+FINPROTECTION_IMP_NP310_POP,"Population pushed below the $3.20 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FINPROTECTION_IMP_PG_310,"Increase in poverty gap  due to household  health expenditures at the $3.10a day poverty line, in cents of international dollars",EN
+FINPROTECTION_IMP_PG_310_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.20 a-day poverty line (%, national, rural, urban)",EN
+O_Ins_other,Treatment for tobacco dependence in other settings cost covered,EN
+FINPROTECTION_IMP_NP_310_LEVEL_MILLION,Total population pushed below the $3.20 a day poverty line by household health expenditures (millions),EN
+FINPROTECTION_IMP_NP_310_LEVEL_SH,"Total population pushed below the $3.20 a day poverty line by household health expenditures (%, regional, global)",EN
+O_Avail_hlthSPACEclin,Treatment for tobacco dependence available in health clinics or other primary care facilities,EN
+O_Group,Offering help to quit tobacco use,EN
+overwgt5,Overweight prevalence in children aged <five years (%),EN
+P_Group,Protecting people from tobacco smoke,EN
+P1_compliance,Compliance of ban on smoking in HEALTH-CARE FACILITIES,EN
+P12_fines_establishment,National smoking ban: FINES ON THE ESTABLISHMENT,EN
+P14_funds_for_enforce,National smoking ban: DEDICATED FUNDS FOR ENFORCEMENT,EN
+GDO_q12x2x1x1_1NGO,Majority provider of dementia carer training and education (NGO),EN
+P_count_places_sf,National smoking ban: NUMBER OF PLACES SMOKE-FREE,EN
+P5_indoor_off,National smoking ban in INDOOR OFFICES,EN
+NUTOVERWEIGHTPREV,"Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), model-based estimates",EN
+IHR11,Food safety,EN
+GDO_q12x2x1x1_3,"Accessibility of respite care for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_1,"Accessibility of dementia carer training and education [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_1PRV,Majority provider of dementia carer training and education (Private sector),EN
+GDO_q12x2x1x1_2,"Accessibility of psycho-social supports for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q12x2x1x1_4,"Accessibility of information on legal rights for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+NCD_BMI_18C,"Prevalence of underweight among adults, BMI < 18 (crude estimate) (%)",EN
+NCD_BMI_25C,"Prevalence of overweight among adults, BMI &GreaterEqual; 25 (crude estimate) (%)",EN
+NCD_BMI_30A,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)",EN
+O_Avail_other,Treatment for tobacco dependence available in other settings,EN
+O_Ins_community,Treatment for tobacco dependence in the community cost covered,EN
+O_Ins_hlth_clin,Treatment for tobacco dependence in health clinics or other primary care facilities cost covered,EN
+FINPROTECTION_IMP_PG_190,"Increase in poverty gap  due to household  health expenditures at the $1.90 a day poverty line, in cents of international dollars",EN
+FINPROTECTION_IMP_PG_190_STD,"Increase in poverty gap due to household  health expenditures, expressed as a proportion of the $1.90 a-day poverty line (%)",EN
+FINPROTECTION_IMPOV_ESTIMATE_AVAILABLE,Availability of estimates on impoverishment due to out-of-pocket health expenditures,EN
+obesewm,"Obesity prevalence in non-pregnant women aged 15-49 years, BMI >= 30 (%)",EN
+NCD_BMI_PLUS1C,"Prevalence of overweight among children and adolescents, BMI > +1 standard deviations above the median (crude estimate) (%)",EN
+P7_pubs,National smoking ban in PUBS AND BARS,EN
+P10_subnat_auth_exists,Subnational smoking bans - authority exists,EN
+P13_fines_smoker,National smoking ban: FINES ON THE PATRON,EN
+P15_complaints,National smoking ban: CITIZEN COMPLAINTS AND INVESTIGATIONS,EN
+P2_compliance,Compliance of ban on smoking in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES,EN
+P2_education,National smoking ban in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES,EN
+P4_compliance,Compliance of ban on smoking in GOVERNMENT FACILITIES,EN
+M_Est_cig_curr,Estimate of current cigarette smoking prevalence (%),EN
+M_Est_cig_daily_crude,"Daily cigarette smoking, crude adjusted",EN
+P8_compliance,Compliance of ban on smoking in PUBLIC TRANSPORT,EN
+P3_compliance,Compliance of ban on smoking in UNIVERSITIES,EN
+P3_universities,National smoking ban in UNIVERSITIES,EN
+P6_compliance,Compliance of ban on smoking in RESTAURANTS,EN
+P6_restaurants,National smoking ban in RESTAURANTS,EN
+P7_compliance,Compliance of ban on smoking in PUBS AND BARS,EN
+P8_pub_transp,National smoking ban in PUBLIC TRANSPORT,EN
+M_Est_tob_curr_crude,"Current tobacco smoking, crude adjusted",EN
+R_admin_tax_stamps,Tax administration: Tax stamps applied on tobacco products,EN
+R_excise_incr,Tobacco excises increased over the survey period,EN
+overwgt3,Overweight prevalence in children aged <three years (%),EN
+P1_healthcare,National smoking ban in HEALTH-CARE FACILITIES,EN
+P11_fines_any,National smoking ban: FINES FOR VIOLATIONS,EN
+P4_govt,National smoking ban in GOVERNMENT FACILITIES,EN
+P5_compliance,Compliance of ban on smoking in INDOOR OFFICES,EN
+GDO_q12x2x1x1_1PUB,Majority provider of dementia carer training and education (Public sector),EN
+GDO_q12x2x1x3,Estimated number of dementia carers receiving training and education,EN
+M_Est_cig_curr_crude,"Current cigarette smoking, crude adjusted",EN
+M_Est_cig_daily,Estimate of daily cigarette smoking prevalence (%),EN
+R_Group,Raising taxes on tobacco,EN
+M_Est_tob_curr,Estimate of current tobacco use prevalence (%),EN
+M_smkless_prev_adult,Adult smokeless tobacco use indicator rate,EN
+M_smkless_prev_youth,Youth smokeless tobacco use indicator rate,EN
+GDO_q12x2x1x1_5,"Accessibility of financial benefits/social protection for dementia carers [Capital/capital and main cities/capital, main cities, rural areas]",EN
+NCD_BMI_18A,"Prevalence of underweight among adults, BMI < 18 (age-standardized estimate) (%)",EN
+NCD_BMI_30C,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (crude estimate) (%)",EN
+NCD_BMI_MINUS2A,"Prevalence of thinness among children and adolescents, BMI < -2 standard deviations below the median (age-standardized estimate) (%)",EN
+NCD_BMI_MINUS2C,"Prevalence of thinness among children and adolescents, BMI < -2 standard deviations below the median (crude estimate) (%)",EN
+GDO_q15x1,Inclusion of dementia training and education for non-health workers,EN
+RADON_Q706,Existence of training/education on prevention/mitigation,EN
+Rev_imp_other,Annual tax revenues - import duties and all other taxes (excluding corporate taxes on tobacco companies),EN
+Rev_type,Annual tax revenues - tobacco products included,EN
+P9_all_other,National smoking ban in ALL OTHER INDOOR PUBLIC PLACES,EN
+R_afford_price_dispersion,Tobacco tax structure: Price dispersion: Share of cheapest brand price in premium brand price (%) (the higher the % the smaller the gap),EN
+R_afford_tax_auto_adjust,Tobacco tax structure: Specific tax component automatically adjusted for inflation (or other),EN
+M_Est_tob_daily,Estimate of daily tobacco use prevalence (%),EN
+M_Est_tob_daily_crude,"Daily tobacco smoking, crude adjusted",EN
+M_Group,Monitoring tobacco use and prevention policies,EN
+M_smkless_def_text_adult,Adult smokeless tobacco use indicator definition,EN
+M_smkless_def_text_youth,Youth smokeless tobacco use indicator definition,EN
+RS_207,Blood Alcohol Concentration (BAC) limit for drivers,EN
+RSUD_1,"Point prevalence (%), alcohol use disorders, 15+ years",EN
+RSUD_180,Involvement of representatives of affected or targeted populations in the development and implementation of national programmes for prevention for alcohol and drugs,EN
+RSUD_210,Voluntary treatment for people with alcohol use disorders in the criminal justice system,EN
+RSUD_230,Compulsory treatment for people with alcohol use disorders in the criminal justice system,EN
+RS_208,Attribution of road traffic deaths to alcohol (%),EN
+RSUD_27,"Government benefits for alcohol use disorders, subsidy or disability pension",EN
+RSUD_760,Educational attainment in prevention,EN
+RSUD_720,Open access interventions for alcohol,EN
+RSUD_740,Health professionals providing treatment for alcohol and drug use disorders,EN
+RSUD_270,Financing methods for treatment for alcohol use disorders,EN
+RSUD_30,Sector for inpatient treatment of alcohol dependence,EN
+RSUD_300,Government benefits for people with alcohol use disorders,EN
+RSUD_31,Sector for outpatient treatment of alcohol dependence,EN
+RSUD_320,Main sector for treatment for alcohol use disorders,EN
+RSUD_340,Treatment programmes for children and adolescents with alcohol use disorders,EN
+RSUD_44,"Treatment slots for alcohol and drug use disorders, outpatient, per 10 000",EN
+RSUD_370,Specialized treatment facilities for alcohol use disorders,EN
+RSUD_85,NGOs for alcohol use disorders,EN
+RSUD_850,System of monitoring alcohol involvement in forensic pathology,EN
+RSUD_790,Educational attainment in treatment,EN
+RSUD_33,Sector for residential long-term rehabilitation of alcohol use disorders,EN
+SA_0000001398_ARCHIVED,"Alcohol, consumption of pure alcohol by type of beverage (%)",EN
+SA_0000001400,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), by beverage type",EN
+SA_0000001401,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average",EN
+SA_0000001402_ARCHIVED,"Alcohol, estimate of five-year change in recorded per capita (15+) consumption 2006-2010",EN
+SA_0000001403,"Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001403_ARCHIVED,"Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol)",EN
+RS_193,Income level,EN
+RS_576,Gross national income per capita (Atlas method),EN
+RSUD_170,Involvement of representatives of affected or targeted populations in the development and formulation of policies and strategies for prevention for alcohol and drugs,EN
+RSUD_480,Registration of medications for alcohol dependence and withdrawal,EN
+SA_0000001404,"Alcohol, drinkers only per capita (15+) consumption in litres of pure alcohol, three-year average",EN
+SA_0000001406_ARCHIVED,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001409_ARCHIVED,"Alcohol, abstainers lifetime (%)",EN
+SA_0000001411_ARCHIVED,"Alcohol, abstainers past 12 months (%)",EN
+SA_0000001413,"Alcohol, consumers past 12 months (%), age-standardized",EN
+SA_0000001414_ARCHIVED,"Alcohol, former drinkers (%)",EN
+SA_0000001417,"Alcohol, patterns of drinking score",EN
+SA_0000001417_ARCHIVED,"Alcohol, patterns of drinking score",EN
+RSUD_5,"Age-standardized DALYs, alcohol and drug use disorders, per 100 000",EN
+SA_0000001404_ARCHIVED,"Alcohol, drinkers only per capita (15+)consumption in litres of pure alcohol",EN
+SA_0000001409,"Alcohol, abstainers lifetime (%), age-standardized",EN
+SA_0000001411,"Alcohol, abstainers past 12 months (%), age-standardized",EN
+RSUD_29,Sector for inpatient detoxification of alcohol use disorders,EN
+RSUD_3,"Age-standardized death rates, alcohol and drug use disorders, per 100 000",EN
+RSUD_32,Sector for the treatment of alcohol-induced psychoses and other alcohol-induced psychiatric conditions,EN
+RSUD_750,Standards of care for professionals providing treatment for alcohol and drug use disorders,EN
+SA_0000001416,"Alcohol, heavy episodic drinking (15+), drinkers only, past 30 days (%), age-standardized",EN
+SA_0000001405,"Alcohol, tourist consumption (in litres of pure alcohol)",EN
+SA_0000001413_ARCHIVED,"Alcohol, consumers past 12 months (%)",EN
+GDO_q8x3_2,"Accessibility of behaviour and psychological management in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+SA_0000001418,"Age-standardized DALYs, alcohol use disorders, per 100,000",EN
+SA_0000001421,"Age-standardized DALYs, diabetes mellitus, per 100,000",EN
+RSUD_580,Prevention programmes for alcohol,EN
+SA_0000001425,"Age-standardized DALYs, ischaemic heart disease, per 100,000",EN
+RSUD_700,Employment services for alcohol use disorders,EN
+SA_0000001444,"Age-standardized death rates, ischaemic heart disease, per 100,000",EN
+GDO_q8x3_5,"Accessibility of palliative and end-of-life care services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+GDO_q8x3_1,"Accessibility of diagnostic services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+SA_0000001440,"Age-standardized death rates, diabetes mellitus, per 100,000",EN
+GDO_q8x3_6,"Accessibility of social and financial protection for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+RSUD_890,Treatment programmes for children and adolescents with alcohol use disorders,EN
+SA_0000001398,"Alcohol, consumption of pure alcohol by type of beverage (%)",EN
+SA_0000001400_ARCHIVED,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001401_ARCHIVED,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average",EN
+SA_0000001402,"Alcohol, estimate of five-year change in recorded per capita (15+) consumption 2006-2010",EN
+GDO_q5x1x1_3,Identification of different sectors in dementia care coordination (Education),EN
+RSUD_68,Pharmacotherapy used for the management of alcohol withdrawal,EN
+SA_0000001725_ARCHIVED,National alcohol policy specifically involves young people activities,EN
+SA_0000001732,New types of alcoholic beverages emerging,EN
+SA_0000001735,Alcohol content displayed on containers,EN
+SA_0000001735_ARCHIVED,Alcohol content displayed on containers,EN
+SA_0000001736_ARCHIVED,Action Plan for implementation of alcohol policy,EN
+SA_0000001737,"Alcohol, regional per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001456,"Age-standardized death rates (15+ years), alcoholic liver disease, per 100,000",EN
+SA_0000001469,"Treatment admissions (inpatient), alcoholic psychosis, per 100,000",EN
+SA_0000001462,"Alcohol use disorders (15+), 12 month prevalence (%) with 95%",EN
+SA_0000001462_ARCHIVED,"Alcohol use disorders (15+), 12 month prevalence (%) with 95%",EN
+RSUD_590,Prevention programmes for specific populations for alcohol,EN
+GDO_q8x3_3,"Accessibility of psychosocial and rehabilitation services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+SA_0000001405_ARCHIVED,"Alcohol, tourist consumption (in litres of pure alcohol)",EN
+SA_0000001406,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001414,"Alcohol, former drinkers (%), age-standardized",EN
+SA_0000001415_ARCHIVED,"Alcohol, heavy episodic drinking (population) past 30 days (%)",EN
+SA_0000001416_ARCHIVED,"Alcohol, heavy episodic drinking (15+), drinkers only, past 30 days (%)",EN
+SA_0000001734,Number of standard alcoholic drinks displayed on containers,EN
+GHED_CHE_pc_US_SHA2011,Current health expenditure (CHE) per capita in US$,EN
+GHED_CHEGDP_SHA2011,Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),EN
+GHED_EXT_pc_PPP_SHA2011,External health expenditure (EXT) per capita in PPP int$,EN
+SA_0000001741_ARCHIVED,"Alcohol-attributable fractions (15+), liver cirrhosis deaths (%)",EN
+SA_0000001742,"Alcohol-attributable fractions (15+), road traffic crash deaths (%)",EN
+SA_0000001744,"Alcohol, regional prevalence of alcohol dependence (%)",EN
+SA_0000001745_ARCHIVED,"Alcohol, regional prevalence of alcohol use disorders (%)",EN
+SA_0000001746,"Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2025",EN
+SA_0000001746_ARCHIVED,"Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2025",EN
+SA_0000001747_ARCHIVED,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average with 95%CI",EN
+SA_0000001748_ARCHIVED,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+SA_0000001749_ARCHIVED,"Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+SA_0000001470,"Alcohol-related road traffic crashes, per 100,000 population",EN
+SA_0000001471,Alcohol-related road traffic crashes (% of all traffic crashes),EN
+GHED_CHE_pc_PPP_SHA2011,Current health expenditure (CHE) per capita in PPP int$,EN
+SA_0000001461,"Alcohol dependence (15+ ), 12-month prevalence (%) with 95%CI",EN
+SA_0000001461_ARCHIVED,"Alcohol dependence (15+ ), 12-month prevalence (%) with 95%CI",EN
+SA_0000001471_ARCHIVED,Alcohol-related road traffic crashes (% of all traffic crashes),EN
+SA_0000001473,"Alcohol-related disease mortality, per 100,000 (15+ years)",EN
+SA_0000001475,Annual revenues from alcohol excise tax in millions US$,EN
+SA_0000001477,Social costs of alcohol use in millions US$,EN
+SA_0000001503,Alcoholic beverage legally defined,EN
+SA_0000001504_ARCHIVED,Alcohol use is banned,EN
+GHED_PVT-D_pc_PPP_SHA2011,Domestic private health expenditure (PVT-D) per capita in PPP int$,EN
+SA_0000001740,Alcohol-attributable Years of Life Lost (YLL) score,EN
+SA_0000001741,"Alcohol-attributable fractions (15+), liver cirrhosis deaths (%)",EN
+SA_0000001742_ARCHIVED,"Alcohol-attributable fractions (15+), road traffic crash deaths (%)",EN
+SA_0000001743_ARCHIVED,"Alcohol-attributable fractions, all-cause deaths (%)",EN
+SA_0000001463,"Alcoholic psychosis, incidence, per 100,000",EN
+SA_0000001467,Perceived trend in alcohol-related harm and consequences,EN
+SA_0000001470_ARCHIVED,"Alcohol-related road traffic crashes, per 100,000 population",EN
+SA_0000001466,"Hospital discharges, alcoholic liver disease, per 100,000",EN
+SA_0000001468,"Treatment admissions (inpatient), alcohol dependence, per 100,000",EN
+SA_0000001474,Alcoholic excise tax revenue as a per cent of government revenue,EN
+SA_0000001474_ARCHIVED,Alcoholic excise tax revenue as a per cent of government revenue,EN
+SA_0000001475_ARCHIVED,Annual revenues from alcohol excise tax in millions US$,EN
+SA_0000001477_ARCHIVED,Social costs of alcohol use in millions US$,EN
+GHED_GGHE-D_pc_PPP_SHA2011,Domestic general government health expenditure (GGHE-D) per capita in PPP int$,EN
+GHED_GGHE-DGDP_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%),EN
+SA_0000001739,"Alcohol, heavy episodic drinking (15+) past 30 days (%), age-standardized",EN
+SA_0000001739_ARCHIVED,"Alcohol, heavy episodic drinking (15+) past 30 days (%), age-standardized with 95%CI",EN
+GHED_PVT-D_pc_US_SHA2011,Domestic private health expenditure (PVT-D) per capita in US$,EN
+SA_0000001748,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+GHED_EXTCHE_SHA2011,External health expenditure (EXT) as percentage of current health expenditure (CHE) (%),EN
+GHED_GGHE-DCHE_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%),EN
+GHED_OOPSCHE_SHA2011,Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%),EN
+SA_0000001502_ARCHIVED,Adopted written national policy on alcohol,EN
+SA_0000001503_ARCHIVED,Alcoholic beverage legally defined,EN
+SA_0000001506_ARCHIVED,National legislation to prevent illegal alcohol,EN
+RSUD_660,Treatment programmes for women with alcohol use disorders,EN
+RSUD_680,Special housing services for alcohol use disorders,EN
+SA_0000001725,National alcohol policy specifically involves young people activities,EN
+SA_0000001437,"Age-standardized death rates, alcohol use disorders, per 100,000",EN
+GDO_q8x3_4,"Accessibility of activities of daily living support services in community for dementia [Capital/capital and main cities/capital, main cities, rural areas]",EN
+SA_0000001732_ARCHIVED,New types of alcoholic beverages emerging,EN
+SA_0000001751,"Alcohol, average daily intake in grams among drinkers, three-year average",EN
+SA_0000001751_ARCHIVED,"Alcohol, average daily intake in grams among drinkers with 95%CI",EN
+SA_0000001752,"Alcohol, total (recorded + unrecorded) per capita (15+) consumption, projected estimates for 2016",EN
+SA_0000001752_ARCHIVED,"Alcohol, total (recorded + unrecorded) per capita (15+) consumption, projected estimates for 2016",EN
+SA_0000001754_ARCHIVED,"Alcohol, harmful use (15+), 12 month prevalence (%) with 95%CI",EN
+SA_0000001523,"Prices for alcoholic beverages (average, US$)",EN
+SA_0000001760,15-19 years old total alcohol consumption in litres of pure alcohol,EN
+SA_0000001749,"Alcohol, total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+SA_0000001754,"Alcohol, harmful use (15+), 12 month prevalence (%) with 95%CI",EN
+SA_0000001762,National guidelines for alcohol problem prevention and counselling at workplaces,EN
+SA_0000001762_ARCHIVED,National guidelines for alcohol problem prevention and counselling at workplaces,EN
+SA_0000001761,National guidelines for the prevention and reduction of alcohol-related harm in schools,EN
+SA_0000001763,Workplace representatives nationally involved to prevent and address alcohol-related harm,EN
+SA_0000001520,Legal blood alcohol concentration (BAC) limits,EN
+SA_0000001520_ARCHIVED,Legal blood alcohol concentration (BAC) limits,EN
+SA_0000001734_ARCHIVED,Number of standard alcoholic drinks displayed on containers,EN
+SA_0000001736,Action Plan for implementation of alcohol policy,EN
+SA_0000001737_ARCHIVED,"Alcohol, regional per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001740_ARCHIVED,Alcohol-attributable Years of Life Lost (YLL) score,EN
+SA_0000001463_ARCHIVED,"Alcoholic psychosis, incidence, per 100,000",EN
+SA_0000001465,"Hospital discharges, alcohol-related injuries and poisoning, per 100,000",EN
+SA_0000001472,"Alcohol-related injury mortality, per 1,000",EN
+GHED_EXT_pc_US_SHA2011,External health expenditure (EXT) per capita in US$,EN
+GHED_GGHE-D_pc_US_SHA2011,Domestic general government health expenditure (GGHE-D) per capita in US$,EN
+SA_0000001743,"Alcohol-attributable fractions, all-cause deaths (%)",EN
+SA_0000001744_ARCHIVED,"Alcohol, regional prevalence of alcohol dependence (%)",EN
+SA_0000001745,"Alcohol, regional prevalence of alcohol use disorders (%)",EN
+SA_0000001747,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average",EN
+GOE_Q104_3,Enabling access to education where learning facilities are limited,EN
+GOE_Q120,eLearning courses accredited by continuing medical education or professional licensing bodies,EN
+GOE_Q103,eLearning is used in pre-service education to teach health sciences students,EN
+SA_0000001760_ARCHIVED,15-19 years old total alcohol consumption in litres of pure alcohol,EN
+SA_0000001761_ARCHIVED,National guidelines for the prevention and reduction of alcohol-related harm in schools,EN
+SA_0000001763_ARCHIVED,Workplace representatives nationally involved to prevent and address alcohol-related harm,EN
+SA_0000001767_ARCHIVED,Legislation on alcohol testing at workplaces,EN
+SA_0000001769,National systems for monitoring alcohol consumption and harms,EN
+SA_0000001769_ARCHIVED,National systems for monitoring alcohol consumption and harms,EN
+SA_0000001771_ARCHIVED,Comprehensive and regular reporting of alcohol situation,EN
+SA_0000001541,Restrictions on sales promotion from owners of pubs and bars (alcohol for free),EN
+GOE_Q119_3,Enabling access to education where learning facilities are limited,EN
+SA_0000001767,Legislation on alcohol testing at workplaces,EN
+SA_0000001771,Comprehensive and regular reporting of alcohol situation,EN
+SA_0000001773,National surveys on adult alcohol consumption,EN
+SA_0000001765_ARCHIVED,Legal obligation for schools to include alcohol use prevention,EN
+SA_0000001766,Legal obligation for schools to interact with parents regarding education and well-being,EN
+SA_0000001766_ARCHIVED,Legal obligation for schools to interact with parents regarding education and well-being,EN
+SA_0000001774_ARCHIVED,National surveys on youth alcohol consumption,EN
+SA_0000001776,Data collection on Foetal Alcohol Syndome,EN
+SA_0000001776_ARCHIVED,Data collection on Foetal Alcohol Syndome,EN
+SA_0000001546_ARCHIVED,Excise tax as a per cent of the retail price of alcoholic beverages,EN
+SA_0000001777,Data collected on harm from alcohol at workplace,EN
+SA_0000001777_ARCHIVED,Data collected on harm from alcohol at workplace,EN
+SA_0000001541_ARCHIVED,Restrictions on sales promotion from owners of pubs and bars (alcohol for free),EN
+GOE_Q140,Competing educational priorities,EN
+SA_0000001753_ARCHIVED,"Alcohol use disorders (15+), 12 month prevalence (%), age standardized, with 95%CI",EN
+SA_0000001476,Alcohol expenditure as a per cent of total household expenditure,EN
+SA_0000001476_ARCHIVED,Alcohol expenditure as a per cent of total household expenditure,EN
+SA_0000001502,Adopted written national policy on alcohol,EN
+SA_0000001504,Alcohol use is banned,EN
+SA_0000001506,National legislation to prevent illegal alcohol,EN
+GHED_GGHE-DGGE_SHA2011,Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%),EN
+GHED_PVT-DCHE_SHA2011,Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%),EN
+SA_0000001765,Legal obligation for schools to include alcohol use prevention,EN
+SA_0000001784_ARCHIVED,"15-years old, any alcoholic beverage consumed at least once a week, (%)",EN
+SA_0000001781_ARCHIVED,"15-years old any alcoholic beverage consumed in past 12 months, (%)",EN
+SA_0000001784,"15-years old, any alcoholic beverage consumed at least once a week, (%)",EN
+SA_0000001786,"13-15-years old any alcoholic beverage consumed in past 30 days, (%)",EN
+SA_0000001786_ARCHIVED,"13-15-years old any alcoholic beverage consumed in past 30 days, (%)",EN
+SA_0000001795,Licensing required for imports of alcoholic beverages,EN
+SA_0000001783,"15-years old any alcoholic beverage consumed in past 30 days, (%)",EN
+SA_0000001783_ARCHIVED,"15-years old any alcoholic beverage consumed in past 30 days, (%)",EN
+SA_0000001788,"Alcohol-related road traffic crashes with fatalities, per 100,000  population",EN
+SA_0000001788_ARCHIVED,"Alcohol-related road traffic crashes with fatalities, per 100,000  population",EN
+SA_0000001789_ARCHIVED,Alcohol-related crimes (% of all crimes),EN
+SA_0000001792,National legislation to prevent illegal alcohol sales,EN
+SA_0000001796,Licensing required for wholesale/distribution of alcoholic beverages,EN
+SA_0000001801,Monopoly on imports of alcoholic beverages,EN
+SA_0000001546,Excise tax as a per cent of the retail price of alcoholic beverages,EN
+SA_0000001548_ARCHIVED,Excise tax as a per cent of the total retail price for 1 litre of pure alcohol,EN
+SA_0000001551_ARCHIVED,Value-added tax (VAT) on alcohol (%),EN
+SA_0000001554,Health warning labels on alcohol advertising,EN
+SA_0000001554_ARCHIVED,Health warning labels on alcohol advertising,EN
+SA_0000001555,Health warning labels on alcohol containers,EN
+SA_0000001523_ARCHIVED,"Prices for alcoholic beverages (average, US$)",EN
+GOE_Q139,Insitutional educational policy does not include eLearning as an approach to teaching health sciences,EN
+TOBACCO_0000000386,Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco packaging,EN
+TOBACCO_0000000387,Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging,EN
+TOBACCO_0000000388,Specific health warnings are mandated for other smoked tobacco packaging,EN
+SA_0000001688,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2), three-year average",EN
+SA_0000001692_ARCHIVED,Framework of national alcohol policy,EN
+SA_0000001704,Data collection on alcohol-related health indicators,EN
+SA_0000001548,Excise tax as a per cent of the total retail price for 1 litre of pure alcohol,EN
+SA_0000001549_ARCHIVED,Duty paid or excise stamp on alcohol container,EN
+TOBACCO_0000000364,Smoking cessation support is available in offices of health professionals,EN
+TOBACCO_0000000366,Smoking cessation support is available in other settings,EN
+SA_0000001551,Value-added tax (VAT) on alcohol (%),EN
+SA_0000001822_ARCHIVED,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+SA_0000001549,Duty paid or excise stamp on alcohol container,EN
+SA_0000001550,Excise tax on alcoholic beverages,EN
+SA_0000001553_ARCHIVED,Restrictions on alcohol use in public places,EN
+SA_0000001809,National system of epidemiological data collection for alcohol use,EN
+SA_0000001813,National organization for monitoring alcohol,EN
+SA_0000001822,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+SA_0000001705,System for monitoring alcohol-related harm,EN
+SA_0000001710,Public-funded alcohol research/monitoring programmes,EN
+SA_0000001711,"Public funds designated for alcohol research/monitoring programmes, in Euros",EN
+SA_0000001802,Monopoly on wholesale /distribution of alcoholic beverages,EN
+SA_0000001693,Level of adoption of national alcohol policy,EN
+SA_0000001696,Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities),EN
+SA_0000001818,"Alcohol, total  (recorded + unrecorded) per capita (15+) consumption, projections",EN
+SA_0000001697,"Adopted written national policy on alcohol, year adopted",EN
+SA_0000001698,"Adopted written national policy on alcohol, year revised",EN
+SA_0000001698_ARCHIVED,"Adopted written national policy on alcohol, year revised",EN
+SA_0000001700,Consumer information on alcohol and health at points of sale,EN
+SA_0000001701,Educational programmes involving target groups in school curriculum,EN
+SA_0000001821_ARCHIVED,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI",EN
+SA_0000001691,Central coordinating entity for alcohol policy implementation,EN
+SA_0000001694,Sectors represented in national alcohol policy,EN
+SA_0000001823_ARCHIVED,"Alcohol, tourist consumption (in litres of pure alcohol)",EN
+SA_0000001824,"Alcohol, regional alcohol per capita (15+) consumption (in litres of pure alcohol)",EN
+SA_0000001707,Persons with alcohol use disorders receiving treatment (%),EN
+SA_0000001708,Designation of alcohol tax revenues to health services,EN
+SA_0000001714,Training in screening and brief interventions for alcohol problems,EN
+SA_0000001715,Counselling to children in families with alcohol problems,EN
+SA_0000001716,Counselling to pregnant women with alcohol problems,EN
+SA_0000001773_ARCHIVED,National surveys on adult alcohol consumption,EN
+SA_0000001774,National surveys on youth alcohol consumption,EN
+SA_0000001781,"15-years old any alcoholic beverage consumed in past 12 months, (%)",EN
+TOBACCO_0000000363,Smoking cessation support is available in health clinics or other primary care facilities,EN
+SA_0000001789,Alcohol-related crimes (% of all crimes),EN
+SA_0000001794,Licensing required for exports of alcoholic beverages,EN
+SA_0000001800,Monopoly on exports of alcoholic beverages,EN
+TOBACCO_0000000391,Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging,EN
+WHS2_161,Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,EN
+TOBACCO_0000000392,Health warnings appear on each other smoked tobacco package and any outside packaging and labelling used in the retail sale,EN
+TOBACCO_0000000395,Health warnings on other smoked tobacco packaging must be written in the principal language(s) of the country,EN
+TOBACCO_0000000394,"Font style, font size and colour of health warnings are mandated for other smoked tobacco packaging",EN
+SA_0000001808,"Alcohol-attributable fractions (15+), cancer deaths",EN
+SA_0000001812,Report with data from health services on alcohol use and AUDs,EN
+SA_0000001550_ARCHIVED,Excise tax on alcoholic beverages,EN
+SA_0000001553,Restrictions on alcohol use in public places,EN
+SA_0000001555_ARCHIVED,Health warning labels on alcohol containers,EN
+SA_0000001648,"Information, education, prevention",EN
+TOBACCO_0000000362,Smoking cessation support is available in hospitals,EN
+TOBACCO_0000000365,Smoking cessation support is available in the community,EN
+SE_DEV_ONTRK,"Children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development and learning (%)",EN
+TOBACCO_0000000389,Number of health warnings approved by the law for other smoked tobacco packaging,EN
+TOBACCO_0000000390,Health warnings on other smoked tobacco packaging must be rotated,EN
+SA_0000001688_ARCHIVED,Total (recorded+unrecorded) alcohol per capita (15+) consumption,EN
+TOBACCO_0000000396,Health warnings on other smoked tobacco packaging must include a photograph or graphic,EN
+SDGTOBACCO,Age-standardized prevalence of current tobacco smoking among persons aged 15 years and older,EN
+UHC_NCD_FPG,Mean fasting plasma glucose,EN
+UHC_NCD_NONELEVBP,Prevalence of non-elevated blood pressure (%),EN
+SA_0000001691_ARCHIVED,Central coordinating entity for alcohol policy implementation,EN
+SA_0000001692,Framework of national alcohol policy,EN
+SA_0000001693_ARCHIVED,Level of adoption of national alcohol policy,EN
+SA_0000001694_ARCHIVED,Sectors represented in national alcohol policy,EN
+SA_0000001696_ARCHIVED,Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities),EN
+SA_0000001697_ARCHIVED,"Adopted written national policy on alcohol, year adopted",EN
+SA_0000001816,Tax incentives for production low/no alcohol content beer,EN
+SA_0000001817,Tax incentives for production of other alcoholic beverages,EN
+SA_0000001821,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol), three-year average",EN
+SA_0000001823,"Alcohol, tourist consumption (in litres of pure alcohol), three-year average",EN
+UHC_TOBACCONO,Prevalence of non-use of tobacco,EN
+SA_0000001706,National treatment policy for alcohol use disorders,EN
+W_Group,Warning about the dangers of tobacco,EN
+W10_graphic_B,Do the health warnings on other smoked tobacco packaging include a photograph or graphic?,EN
+W10_graphic_C,Do the health warnings on smokeless tobacco packaging include a photograph or graphic?,EN
+W11_outside_pack_C,Do health warnings appear on each smokeless tobacco package and any outside packaging and labelling used in the retail sale?,EN
+W12_imports_dutyfree_B,Health warnings on other smoked tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale,EN
+SI_POV_DAY1,Proportion of population below the international poverty line of US$1.90 per day (%),EN
+W1_HW_law_A,Law mandates that health warnings appear on tobacco packages,EN
+WHS9_85,Literacy rate among adults aged >= 15 years (%),EN
+WHS9_93,Gross national income per capita (PPP int. $),EN
+WHS9_96,Population living in urban areas (%),EN
+W11_outside_pack_B,Do health warnings appear on each other smoked tobacco package and any outside packaging and labelling used in the retail sale?,EN
+SA_0000001717,Prevention/counselling at workplaces for those with alcohol problems,EN
+TOBACCO_0000000393,Health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health,EN
+W14_harm_effects_A,Do health warnings on cigarette packaging describe the harmful effects of tobacco use on health?,EN
+W13_ind_liability_A,Health warnings on cigarette packaging do not remove or diminish the liability of the tobacco industry,EN
+W13_ind_liability_C,Health warnings on smokeless tobacco packaging do not remove or diminish the liability of the tobacco industry,EN
+W14_harm_effects_B,Do health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health?,EN
+W16_number_hw_B,How many health warnings are approved by the law for other smoked tobacco packaging?,EN
+W16_number_hw_C,How many health warnings are approved by the law for smokeless tobacco packaging?,EN
+W18_misleading_terms_C,Ban on deceitful terms on smokeless tobacco packaging,EN
+W13_ind_liability_B,Health warnings on other smoked tobacco packaging do not remove or diminish the liability of the tobacco industry,EN
+W14_harm_effects_C,Do health warnings on smokeless tobacco packaging describe the harmful effects of tobacco use on health?,EN
+W19_colours_numbers_B,Other smoked tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors,EN
+W19_colours_numbers_C,Smokeless tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors,EN
+W15_specific_hw_C,Does the law mandate specific health warnings on smokeless tobacco packaging?,EN
+W17_fines_C,Health warnings on smokeless tobacco packaging law requires or establishes fines for violations,EN
+SI_POV_EMP1,Employed population below the international poverty line of US$1.90 per day (the working poor) (%),EN
+W-MM_Group,Anti-tobacco mass media campaigns,EN
+W1_HW_law_B,Law mandates that health warnings appear on other smoked tobacco packages,EN
+W1_HW_law_C,Law mandates that health warnings appear on smokeless tobacco packages,EN
+W12_imports_dutyfree_C,Health warnings on smokeless tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale,EN
+W2_pc_front_back_C,Percentage of principal display area mandated to be covered by health warnings - front and back of smokeless tobacco packaging,EN
+W23_emissions_front_back_B,Other smoked tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas,EN
+W24_exp_date_B,Other smoked tobacco packaging and labelling must not display expiry dates,EN
+W4_pc_back_C,Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging,EN
+W5_top_side_B,Health warnings on other smoked tobacco packaging must be placed at the top of the principal display areas of the package,EN
+W5_top_side_C,Health warnings on smokeless tobacco packaging must be placed at the top of the principal display areas of the package,EN
+W9_no_obscure_B,Health warnings on other smoked tobacco packaging must not be obscured in any way including by required markings such as tax stamps,EN
+WHOSIS_000012,Prevalence of smoking any tobacco product among adults (&#8805;15 years) (%),EN
+WHOSIS_000013,Prevalence of current tobacco use among adolescents (13-15 years) (%),EN
+W20_flavours_B,Other smoked tobacco packaging and labelling must not use descriptors depicting flavours,EN
+W21_emissions_quant_C,Smokeless tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark,EN
+W23_emissions_front_back_C,Smokeless tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas,EN
+W26_plain_packaging_C,Plain packaging of smokeless tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).,EN
+W27_smokeless_prod_ban,The sale of all smokeless tobacco products is completely banned,EN
+W3_pc_front_B,Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging,EN
+W18_misleading_terms_B,Ban on deceitful terms on other smoked tobacco packaging,EN
+W21_emissions_quant_B,Other smoked tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark,EN
+W24_exp_date_C,Smokeless tobacco packaging and labelling must not display expiry dates,EN
+W25_quitline_number_B,The quit line number must appear on other smoked tobacco packaging or labelling,EN
+W15_specific_hw_B,Does the law mandate specific health warnings on other smoked tobacco packaging?,EN
+W26_plain_packaging_B,Plain packaging of other smoked tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).,EN
+W17_fines_B,Health warnings on other smoked tobacco packaging law requires or establishes fines for violations,EN
+W6_font_B,"Does the law mandate font style, font size and colour of health warnings on other smoked tobacco packaging?",EN
+W2_pc_front_back_B,Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco packaging,EN
+W20_flavours_C,Smokeless tobacco packaging and labelling must not use descriptors depicting flavours,EN
+W21_emissions_B,Other smoked tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark,EN
+W22_emissions_qual_B,Other smoked tobacco packaging and labelling must display qualitative information on relevant constituents and emissions,EN
+W22_emissions_qual_C,Smokeless tobacco packaging and labelling must display qualitative information on relevant constituents and emissions,EN
+W25_quitline_number_C,The quit line number must appear on smokeless tobacco packaging or labelling,EN
+W8_princ_langs_C,Are the health warnings on smokeless tobacco packaging written in the principal language(s) of the country?,EN
+W3_pc_front_C,Percentage of principal display area mandated to be covered by health warnings - front of smokeless tobacco packaging,EN
+W4_pc_back_B,Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging,EN
+TOBACCO_0000000342,Daily users of any smokeless tobacco product (crude rate),EN
+W8_princ_langs_B,Are the health warnings on other smoked tobacco packaging written in the principal language(s) of the country?,EN
+W9_no_obscure_C,Health warnings on smokeless tobacco packaging must not be obscured in any way including by required markings such as tax stamps,EN
+W6_font_C,"Does the law mandate font style, font size and colour of health warnings on smokeless tobacco packaging?",EN
+W7_rotation_B,Are the health warnings on other smoked tobacco packaging rotating?,EN
+W7_rotation_C,Are the health warnings on smokeless tobacco packaging rotating?,EN
+WHOSIS_000009,Children aged <5 years overweight (%),EN
+TOBACCO_0000000192,Prevalence of smoking any tobacco product among persons aged >= 15 years,EN
+TOBACCO_0000000344,Prevalence of current tobacco use among adolescents aged 13-15 years,EN
+NCD_BMI_MEAN,Mean BMI (kg/m²) (age-standardized estimate),EN
+NCD_BMI_25A,"Prevalence of overweight among adults, BMI &GreaterEqual; 25 (age-standardized estimate) (%)",EN
+NCD_BMI_PLUS2A,"Prevalence of obesity among children and adolescents, BMI > +2 standard deviations above the median (age-standardized estimate) (%)",EN
+NCD_CCS_AlcPlan,Existence of operational policy/strategy/action plan to reduce the harmful use of alcohol,EN
+NCD_BMI_MEANC,Mean BMI (kg/m&#xb2;) (crude estimate),EN
+NCD_BMI_PLUS1A,"Prevalence of overweight among children and adolescents, BMI > +1 standard deviations above the median (age-standardized estimate) (%)",EN
+NCD_BMI_PLUS2C,"Prevalence of obesity among children and adolescents, BMI > +2 standard deviations above the median (crude estimate) (%)",EN
+NCD_CCS_CVDPlan,Existence of operational policy/strategy/action plan for cardiovascular diseases,EN
+NCD_CCS_diabtest,"General availability of diabetes testing (by blood glucose measurement, OGTT) at the primary health care level",EN
+NCD_CCS_dietpaaware,Implementation of diet and/or physical activity public awareness program,EN
+NCD_CCS_DietPlan,Existence of operational policy/strategy/action plan to reduce unhealthy diet related to NCDs,EN
+NCD_CCS_HbA1c,General availability of diabetes testing (by HbA1c) at the primary health care level,EN
+NCD_CCS_paaware,Implementation of physical activity public awareness program,EN
+NCD_CCS_rheumreg,Existence of a register of patients who had rheumatic fever and rheumatic heart disease,EN
+NCD_CCS_rheum,Provision for secondary prevention of rheumatic fever and rheumatic heart disease in more than 50% of public sector health facilities,EN
+NCD_GLUC_04,Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate),EN
+NCD_CCS_rheumfollowup,Has systems for follow-up/recall to deliver long-term penicillin prophylaxis to patients with rheumatic fever and rheumatic heart disease,EN
+NCD_CCS_riskstrat,Availability of cardiovascular risk stratification in 50% or more primary health care facilities,EN
+NCD_PAC,Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%),EN
+NTCP_govt_exp,Annual budget for tobacco control in currency reported,EN
+NCD_CCS_TobPlan,Existence of operational policy/strategy/action plan to decrease tobacco use,EN
+NCD_GLUC_01,Mean fasting blood glucose (mmol/l) (age-standardized estimate),EN
+NCDMORT3070,"Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease, cancer, diabetes, or chronic respiratory disease",EN
+NTCP_agcy,National agency for tobacco control exists,EN
+NTCP_govt_obj,Government objectives on tobacco control exist,EN
+NCD_DIABETES_TREATMENT_CRUDE,"Diabetes treatment coverage, crude",EN
+FINPROTECTION_IMP_P_215_LEVEL_SH,"Total population pushed further below the $2.15 a day poverty line by household health expenditures (%, regional, global)",EN
+SA_0000001836,Alcohol-related road traffic deaths (% of all road traffic deaths),EN
+FOODBORNE_DALY_100k,Foodborne disability-adjusted life years per 100 000,EN
+IHRSPAR2_C13,Food safety,EN
+FINPROTECTION_IMP_P_215_LEVEL_MILLION,"Total population pushed further below the $2.15 a day poverty line by household health expenditures (millions, regional, global)",EN
+FOODBORNE_ILL_TOTAL,"Foodborne illnesses, all ages",EN
+NCD_CCS_PA_POL_WORK,Existence of policy promoting physical activity: workplace initiatives,EN
+NCD_CCS_ALC_TARGET,Existence of a national target on alcohol,EN
+TOBACCO_MPOWER_O1_TREATMENTSUPPORT,Tobacco Offer help: O1 Support for treatment of tobacco dependence / Availability of smoking cessation support,EN
+FINPROTECTION_IMP_P310_POP,"Population pushed further below the $3.20 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+NCD_CCS_TOB_SVY,"Has conducted a recent, national adult risk factor survey covering tobacco use",EN
+E_compl_e14,Compliance with ban on appearance of tobacco products in TV and/or films (score),EN
+FINPROTECTION_IMP_P310_LEVEL_MILLION,"Total population pushed further below the $3.20 a day poverty line by household health expenditures (millions, regional, global)",EN
+TB_cc_prct_Q5,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q5 (highest) income or expenditure quantile.,EN
+TB_cc_prct_DRTB,Percentage of TB-affected households facing costs >20% of household income or expenditure due to DR-TB.,EN
+FINPROTECTION_IMP_BNLFHU_FURIMP_HH,"Households  impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food, housing, utilities - developed by WHO/Europe) (%, national)",EN
+TOBACCO_MPOWER_E3_INDIRECTADBANSPLUS,"Tobacco Enforce bans: E3 indirect advertising, additional bans",EN
+Yth_curr_cig_smoking,Prevalence of current cigarette smoking among adolescents (%),EN
+SA_0000001832,"Alcohol-attributable all-cause deaths per 100,000, age standardized",EN
+Adult_curr_smokeless,Prevalence of current smokeless tobacco use among adults (%),EN
+E22_subnational_authority_exists,"Subnational bans on tobacco advertising, promotion and sponsorship authority exists",EN
+R_admin_overt_marking,Tobacco tax administration: Marking is overt,EN
+R_afford_price_gap_decreased,Tobacco tax structure: Price gap decreased over the last two years (cheapest brand of cigarettes versus the premium brand),EN
+SA_0000001841,"Alcohol, 15-19 years heavy continuous drinkers past year (%)",EN
+NCD_HYP_DIAGNOSIS_A,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, age-standardized (%)",EN
+TOBACCO_MPOWER_P1_SMOKEFREEPLACES,Tobacco Protect people: P1 smoke-free places,EN
+Yth_daily_smokeless,Prevalence of daily smokeless tobacco use among adolescents (%),EN
+ASSISTIVETECH_Q07,Availability of education/training for assistive technology,EN
+PRISON_F1_BMI25_TOT,In-prison people who have BMI >= 25 (number of prisoners who are overweight),EN
+FINPROTECTION_IMP_P_365_LEVEL_MILLION,"Total population pushed further below the $3.65 a day poverty line by household health expenditures (millions, regional, global)",EN
+TOBACCO_MPOWER_E2_INDIRECTADBANS,Tobacco Enforce bans: E2 indirect advertising,EN
+ORALHEALTH_DENTALHEALTHCARE_EXP_PERCAP,Per capita expenditure on dental healthcare (US$),EN
+PRISON_B17_INVOLVEMENT,In-prison patient involvement in healthcare planning and reform,EN
+FOODBORNE_DALY_GE5,"Foodborne disability-adjusted life years, aged 5 years and above",EN
+TOBACCO_MPOWER_R_TAXREVENUELATEST,"Tobacco Raise taxes: Annual tax revenues from tobacco products, latest reporting period",EN
+TOBACCO_MPOWER_W2A_CIGARETTES,"Tobacco Warning: W2a cigarette packaging health warnings, other characteristics",EN
+FINPROTECTION_IMP_NP215_POP,"Population pushed below the $2.15 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+TB_cc_prct_Q1,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q1 (lowest) income or expenditure quantile.,EN
+SA_0000001828_AA,"Regional prevalence, alcohol-attributable DALYs, (%)",EN
+SA_0000001842,"Alcohol, 15-19 years heavy continuous drinkers, drinkers only, past year (%)",EN
+SA_0000001839,"Alcohol, heavy continuous drinkers past year (%)",EN
+NUT_CF_ISSSF,"Introduction of solid, semi-solid or soft foods 6-8 months",EN
+FOODBORNE_DALY_CASE_GE5,"Foodborne disability-adjusted life years per case, aged 5 years and above",EN
+TOBACCO_MPOWER_M4_SMOKELESSECIGARETTESSCHOOL,"Tobacco Monitor: M4 school-based national surveys, smokeless tobacco or e-cigarettes",EN
+NCD_HYP_PREVALENCE_A,"Hypertension among adults aged 30-79 years, prevalence, age-standardized",EN
+TOBACCO_MPOWER_R_AFFORDABILITY,Tobacco Raise taxes: Affordability,EN
+FOODBORNE_YLL_LT5,"Foodborne years of life lost, aged less than 5 years",EN
+FOODBORNE_DALY,Foodborne disability-adjusted life years,EN
+SA_0000001843,"Alcohol-attributable DALYs lost from all causes (all ages), (number)",EN
+FOODBORNE_DALY_LT5,"Foodborne disability-adjusted life years, aged less than 5 years",EN
+FOODSAFETY_IHR_PERCENT,Food safety IHR (%),EN
+FOODBORNE_YLD_CASE_LT5,"Foodborne years lived with disability per case, aged less than 5 years",EN
+NCD_CCS_PA_GUIDELINES_5to19,Existence of national guidelines for physical activity for children and adolescents aged 5-19,EN
+FOODBORNE_ILL_100K_GE5,"Foodborne illnesses per 100 000, aged 5 years and above",EN
+TOBACCO_MPOWER_M2_SMOKELESSECIGARETTES,"Tobacco Monitor: M2 population-based national surveys, smokeless tobacco or e-cigarettes",EN
+NCD_HYP_CONTROL_A,"Hypertension effective treatment coverage (controlled hypertension )among adults aged 30-79, age-standardized (%)",EN
+TB_cc_prct_Q3,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q3 income or expenditure quantile.,EN
+M_Est_smk_curr,Estimate of current tobacco smoking prevalence (%),EN
+TOBACCO_MPOWER_W1B_TOBACCOSMOKED,Tobacco Warning: W1b smoked tobacco packaging health warnings,EN
+RADON_Q707,Inclusion of radon education for building professionals,EN
+FOODSAFETY_JEE_SCORE,Food safety JEE (score),EN
+SA_0000001837,"Alcohol poisoning deaths, per 100,000 population",EN
+TOBACCO_MPOWER_R_INFLATIONADJUSTEDPRICES,Tobacco Raise taxes: Inflation-adjusted prices for most sold brand of cigarettes,EN
+NCD_CCS_BPmsmt,General availability of blood pressure measurement at the primary health care level,EN
+PRISON_F1_TOBACCO_TOT,In-prison people who currently use tobacco  (number of prisoners),EN
+E_compl_e12,Compliance with ban on indentifying non-tobacco products with tobacco brand names (score),EN
+SA_0000001838,Alcohol-related cardiomyopathy deaths (% of all cardiomyopathy deaths),EN
+NLIS_NU_CA_095,NLIS: Minimum acceptable diet (MAD) in children 6-23 months (%),EN
+FOODBORNE_DTH_100K_LT5,"Foodborne deaths per 100 000, aged less than 5 years",EN
+R_admin_covert_marking,Tobacco tax administration: Marking is covert,EN
+M_Est_cig_curr_std,Estimate of current cigarette smoking prevalence (%) (age-standardized rate),EN
+PRISON_F1_BMI30_TOT,In-prison people who have BMI >= 30 (number of prisoners who are obese),EN
+Yth_daily_tob_smoking,Prevalence of daily tobacco smoking among adolescents (%),EN
+FOODBORNE_YLD_100K,Foodborne years lived with disability per 100 000,EN
+FOODBORNE_YLL_100K_TOTAL,"Foodborne years of life lost per 100 000, all ages",EN
+TAXBEV_EXCISE_UNIFORMTIERED_NONALCOHOLIC,Uniform or tiered excise tax system applied on non-alcoholic beverage,EN
+FINPROTECTION_IMP_BNLFHU_P_HH,"Households further impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food, housing, utilities - developed by WHO/Europe) (%, national)",EN
+FOODBORNE_ILL_100K_TOTAL,"Foodborne illnesses per 100 000, all ages",EN
+TOBACCO_MPOWER_W1C_TOBACCOSMOKELESS,Tobacco Warning: W1c smokeless tobacco packaging health warnings,EN
+FINPROTECTION_IMP_NP_215_LEVEL_SH,"Total population pushed below the $2.15 a day poverty line by household health expenditures (%, regional, global)",EN
+FOODBORNE_YLD_LT5,"Foodborne years lived with disability, aged less than 5 years",EN
+TOBACCO_MPOWER_W2B_TOBACCOSMOKED,"Tobacco Warning: W2b smoked tobacco packaging health warnings, other characteristics",EN
+FOODBORNE_YLD_TOTAL,"Foodborne years lived with disability, all ages",EN
+TAXBEV_EXCISE_UNIFORMTIERED_ALCOHOLIC,Uniform or tiered excise tax system applied on alcoholic beverage,EN
+P_compl_p2,Compliance with smoke-free education facilities except universities law (score),EN
+TB_cc_prct,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB.,EN
+Rev_other,Tobacco tax revenues - other,EN
+NCD_HYP_CONTROL_C,"Hypertension: effective treatment coverage (controlled hypertension) among adults aged 30-79 with hypertension, crude (%)",EN
+NUT_CF_MDD,Minimum dietary diversity 6-23 months,EN
+FINPROTECTION_IMP_P190_LEVEL_SH,"Total population pushed further below the $1.90 a day poverty line by household health expenditures (%, regional, global)",EN
+SCSUD_HWFDEV,"Substance use disorders service coverage, health workforce access to professional development and education",EN
+FINPROTECTION_IMP_NPRELPL_POP,"Population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, national, rural, urban)",EN
+NCD_CCS_OBES_TARGET,Existence of a national target on obesity,EN
+FOODBORNE_ILL_100K_LT5,"Foodborne illnesses per 100 000, aged less than 5 years",EN
+FINPROTECTION_IMP_P310_LEVEL_SH,"Total population pushed further below the $3.20 a day poverty line by household health expenditures (%, regional, global)",EN
+M_Est_smk_daily,Estimate of daily tobacco smoking prevalence (%),EN
+NCD_CCS_CVD_GUIDE,Existence of evidence-based national guidelines/protocols/standards for the management of cardiovascular diseases,EN
+M_Est_cig_daily_std,Estimate of daily cigarette smoking prevalence (%) (age-standardized rate),EN
+NUT_CF_MAD,Minimum Acceptable Diet 6-23 months,EN
+NCD_HYP_TREATMENT_A,"Hypertension treatment coverage among adults aged 30-79 with hypertension, age-standardized (%)",EN
+FOODBORNE_YLL_100K_GE5,"Foodborne years of life lost per 100 000, aged 5 years and above",EN
+FOODBORNE_YLD_GE5,"Foodborne years lived with disability, aged 5 years and above",EN
+FOODBORNE_YLL_TOTAL,"Foodborne years of life lost, all ages",EN
+FINPROTECTION_IMP_PG_365_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of the $3.65 a-day poverty line (%, national, rural, urban)",EN
+NCD_CCS_PA_POL_COMM_BASED,Existence of policy promoting physical activity: community-based and sports initiatives,EN
+E17b_csr_promo_self,Ban on tobacco companies/the tobacco industry publicizing their CSR activities,EN
+PRISON_F1_ALCOHOL_TOT,"In-prison people who drink/drank alcohol (number of prisoners, in the last 12 months)",EN
+TOBACCO_MPOWER_M1_TOBACCOUSESMOKING,"Tobacco Monitor: M1 population-based national surveys, tobacco use and smoking",EN
+Yth_daily_tob_use,Prevalence of daily tobacco use among adolescents (%),EN
+FOODBORNE_YLD_CASE_GE5,"Foodborne years lived with disability per case, aged 5 years and above",EN
+NCD_CCS_TOB_MGMT_GUIDE,Existence of evidence-based national guidelines/protocols/standards for the management of tobacco dependence,EN
+TAXBEV_ALCOHOLBASEDTIERED,"If tiered on the beverage, the tiers are alcohol-based",EN
+SA_0000001457_AA,"Liver cirrhosis, alcohol-attributable, age-standardized death rates, per 100,000 population",EN
+Yth_daily_cig_smoking,Prevalence of daily cigarette smoking among adolescents (%),EN
+NCD_HYP_TREATMENT_C,"Hypertension treatment coverage among adults aged 30-79 with hypertension, crude (%)",EN
+E17c_csr_promo_others,Ban on entities other than tobacco companies/the tobacco industry publicizing the CSR activities of the tobacco companies/industry,EN
+NCD_CCS_DIAB_SVY,"Has conducted a recent, national adult risk factor survey covering raised blood glucose/diabetes",EN
+PRISON_B3_DELIVHEALTHCARE,Agencies responsible for delivering prison healthcare,EN
+NCD_CCS_ALC_SVY,"Has conducted a recent, national adult risk factor survey covering harmful alcohol use",EN
+TOBACCO_MPOWER_R_TAX,Tobacco Raise taxes: National taxes for tobacco and nicotine products,EN
+TOBACCO_MPOWER_R_PRICE,Tobacco Raise taxes: Retail price for tobacco and nicotine products,EN
+FINPROTECTION_IMP_P190_LEVEL_MILLION,"Total population pushed further below the $1.90 a day poverty line by household health expenditures (millions, regional, global)",EN
+FINPROTECTION_IMP_NP365_POP,"Population pushed below the $3.65 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FOODBORNE_DALY_CASE_LT5,"Foodborne disability-adjusted life years per case, aged less than 5 years",EN
+FINPROTECTION_IMP_P190_POP,"Population pushed further below the $1.90 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FOODBORNE_YLL_GE5,"Foodborne years of life lost, aged 5 years and above",EN
+PRISON_B9_STAFF_RATIO,Healthcare staff in prisons (FTEs per 1000 prisoners),EN
+TOBACCO_MPOWER_R_TAXREVENUEPREVIOUS,"Tobacco Raise taxes: Annual tax revenues from tobacco products, previous reporting period",EN
+FINPROTECTION_IMP_NP_365_LEVEL_MILLION,"Total population pushed below the $3.65 a day poverty line by household health expenditures (millions, regional, global)",EN
+FOODBORNE_ILL_GE5,"Foodborne illnesses, aged 5 years and above",EN
+FINPROTECTION_IMP_P_365_LEVEL_SH,"Total population pushed further below the $3.65 a day poverty line by household health expenditures (%, regional, global)",EN
+FINPROTECTION_IMP_PG_RELPL_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of a relative poverty line - 60% of median daily per capita consumption or income (%, national, rural, urban)",EN
+Adult_curr_tob_smoking,Prevalence of current tobacco smoking among adults (%),EN
+NCD_CCS_TOB_TARGET,Existence of a national target on tobacco,EN
+FINPROTECTION_IMP_BNLFHU_TOT_HH,"Households pushed below or further below a relative poverty line (reflecting basic needs: food, housing, utilities - developed by WHO/Europe) by out-of-pocket payments (%, national)",EN
+M_Est_smk_daily_std,Estimate of daily tobacco smoking prevalence (%) (age-standardized rate),EN
+FOODBORNE_YLL_100K_LT5,"Foodborne years of life lost per 100 000, aged less than 5 years",EN
+TOBACCO_MPOWER_W3_MASSMEDIA,Tobacco Warning: W3 anti-tobacco mass-media campaigns,EN
+NCD_HYP_DIAGNOSIS_C,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, crude (%)",EN
+E_compl_e13,Compliance with ban on appearance of tobacco brands in TV and/or films (score),EN
+FOODBORNE_YLL_100K,Foodborne years of life lost per 100 000,EN
+NCD_CCS_OvwtPlan,Existence of operational policy/strategy/action plan to reduce overweight/obesity,EN
+NCD_CCS_PA_POL_AGEING,Existence of policy promoting physical activity: active ageing,EN
+SA_0000001834,Percent of all DALYs attributable to alcohol,EN
+FOODBORNE_ILL,Foodborne illnesses,EN
+TOBACCO_MPOWER_OVERVIEW,"Tobacco MPOWER overview: Monitor, Protect people, Offer help, Warn of dangers, Enforce bans, Raise taxes",EN
+FOODBORNE_YLD_100K_TOTAL,"Foodborne years lived with disability per 100 000, all ages",EN
+NCD_CCS_DIET_AWARE,Implementation of a nutrition public awareness program,EN
+TOBACCO_MPOWER_W1A_CIGARETTES,Tobacco Warning: W1a cigarette packaging health warnings,EN
+NUT_CF_EFF,Egg and/or Flesh Food Consumption 6-23 months,EN
+TOBACCO_MPOWER_O2_MEDICATIONAVAILABILITY,Tobacco Offer help: O2 Availability of tobacco cessation medications,EN
+NCD_CCS_BP_TARGET,Existence of a national target on blood pressure / hypertension,EN
+NCD_CCS_PRICE_SUBS,Existence of price subsidies for healthy foods,EN
+SA_0000001835,"Alcohol-related road traffic deaths, per 100,000 population",EN
+Adult_daily_cig_smoking,Prevalence of daily cigarette smoking among adults (%),EN
+FOODBORNE_YLD_100K_LT5,"Foodborne years lived with disability per 100 000, aged less than 5 years",EN
+bmi30wm,"Obesity prevalence in non-pregnant women aged 15-49 years, BMI >= 30 (%)",EN
+NCD_DIABETES_PREVALENCE_AGESTD,"Prevalence of diabetes, age-standardized",EN
+Adult_daily_tob_use,Prevalence of daily tobacco use among adults (%),EN
+NCD_DIABETES_PREVALENCE_CRUDE,"Prevalence of diabetes, crude",EN
+FINPROTECTION_IMP_NP_REL_LEVEL_SH,"Total population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, regional, global)",EN
+M_Est_smk_curr_std,Estimate of current tobacco smoking prevalence (%) (age-standardized rate),EN
+Adult_daily_tob_smoking,Prevalence of daily tobacco smoking among adults (%),EN
+NCD_CCS_OBES_MGMT_GUIDE,Existence of evidence-based national guidelines/protocols/standards for the management of overweight/obesity,EN
+PRISON_F1_EXERCISE_TOT,In-prison people who regularly exercise for a minimum of 150 minutes/week (number of prisoners),EN
+M_Est_tob_daily_std,Estimate of daily tobacco use prevalence (%) (age-standardized rate),EN
+NLIS_NU_CA_053,"NLIS: Introduction to solid, semisolid or soft foods in infants 6-8 months (%)",EN
+NCD_CCS_DIET_SVY,"Has conducted a recent, national adult risk factor survey covering unhealthy diet",EN
+FOODBORNE_YLL,Foodborne years of life lost,EN
+FOODBORNE_YLD_100K_GE5,"Foodborne years lived with disability per 100 000, aged 5 years and above",EN
+FOODBORNE_YLL_CASE_TOTAL,"Foodborne years of life lost per case, all ages",EN
+M_Est_tob_curr_std,Estimate of current tobacco use prevalence (%) (age-standardized rate),EN
+FOODBORNE_YLL_CASE,Foodborne years of life lost per case,EN
+NLIS_NU_CA_116,NLIS: Minimum dietary diversity (MDD) in children 6-23 months (%),EN
+FOODBORNE_DTH_TOTAL,"Foodborne deaths, all ages",EN
+TOBACCO_MPOWER_R_TAXSTRUCTURE,Tobacco Raise taxes: Tobacco tax structure,EN
+ORALHEALTH_DENOMINATOR_CHEPPP,Per capita current health expenditure in PPP (oral health),EN
+FINPROTECTION_CATA_CTPFHU_40_HH,"Households with out-of-pocket payments greater than 40% of capacity to pay for health care (food, housing and utilities approach - developed by WHO/Europe) (%, national)",EN
+FOODBORNE_DALY_100k_GE5,"Foodborne disability-adjusted life years per 100 000, aged 5 years and above",EN
+FINPROTECTION_IMP_PREL_LEVEL_SH,"Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, regional, global)",EN
+NCD_CCS_PA_GUIDELINES_ADULTS,Existence of national guidelines for physical activity for adults,EN
+NCD_CCS_DIAB_GUIDE,Existence of evidence-based national guidelines/protocols/standards for the management of diabetes,EN
+PRISON_D4_DIABETES_DIAG_TOT,In-prison diabetes mellitus diagnosis (number of diagnoses),EN
+FOODBORNE_DTH_100K_TOTAL,"Foodborne deaths per 100 000, all ages",EN
+NCD_DIABETES_TREATMENT_AGESTD,"Diabetes treatment coverage, age-standardized",EN
+TOBACCO_MPOWER_NTCP,Tobacco MPOWER: National tobacco control programmes (NTCP),EN
+SA_0000001844,"Alcohol-attributable all-cause deaths (all ages), (number)",EN
+E_compl_e11,Compliance with ban on use of brand name of non-tobacco product for tobacco product (score),EN
+NCD_CCS_urine_strips_gluc_ketone,General availability of urine strips for glucose and ketone measurement at the primary health care level,EN
+NCD_CCS_DiabetesReg,Existence of a diabetes registry,EN
+NCD_CCS_DiabetesTest,"General availability of diabetes testing (by blood glucose measurement, OGTT, or HbA1c) at the primary health care level",EN
+NCD_CCS_DiabPlan,Existence of operational policy/strategy/action plan for diabetes,EN
+NCD_CCS_Mkting,Existence of any policies on marketing of foods to children,EN
+NCD_GLUC_02,Mean fasting blood glucose (mmol/l) (crude estimate),EN
+NCD_GLUC_03,Raised fasting blood glucose (>= 7.0 mmol/L) (crude estimate),EN
+NCD_PAA,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),EN
+NHAOOPSTHE,Out-of-Pocket expenditure on health as percentage of total health expenditure??,EN
+NHAPREPAIDTHE,Prepaid plans as percentage of total health expenditure?,EN
+TOBACCO_MPOWER_R_TAXADMINISTRATION,Tobacco Raise taxes: Tax administration,EN
+FOODBORNE_DTH_GE5,"Foodborne deaths, aged 5 years and above",EN
+SA_0000001845,"Average daily intake in grams of alcohol, population (15+)",EN
+PRISON_D4_CARDIOVASC_DIAG_TOT,In-prison cardiovascular disease diagnosis (number of diagnoses),EN
+R_admin_unique_identifier,Tobacco tax administration: Unique identifier,EN
+NCD_CCS_PA_GUIDELINES_OLDADULTS,Existence of national guidelines for physical activity for older adults,EN
+TOBACCO_MPOWER_R_EARMARKED,Tobacco Raise taxes:  Reported use of earmarked tobacco taxes,EN
+NCD_CCS_PA_POL_WALKBIKE,Existence of policy promoting physical activity: walking and cycling,EN
+R_earmarking,Reported use of earmarked tobacco taxes,EN
+Rev_import,Tobacco tax revenues - import duties,EN
+TOBACCO_MPOWER_P2_SMOKEFREEPLACEDETAILS,"Tobacco Protect people: P2 smoke-free places, additional characteristics",EN
+FOODBORNE_DALY_100k_LT5,"Foodborne disability-adjusted life years per 100 000, aged less than 5 years",EN
+E23_vending_machines,Ban on tobacco vending machines,EN
+FINPROTECTION_IMP_P365_POP,"Population pushed further below the $3.65 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+FOODBORNE_YLD_CASE,Foodborne years lived with disability per case,EN
+SA_0000001833,"Alcohol-attributable DALYs per 100,000 people (age standardized)",EN
+FOODBORNE_DALY_TOTAL,"Foodborne disability-adjusted life years, all ages",EN
+FOODBORNE_YLL_CASE_LT5,"Foodborne years of life lost per case, aged less than 5 years",EN
+FINPROTECTION_IMP_PRELPL_POP,"Population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, national, rural, urban)",EN
+NCD_HYP_PREVALENCE_C,"Hypertension among adults aged 30-79 years, prevalence, crude",EN
+TB_cc_prct_Q4,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q4 income or expenditure quantile.,EN
+NCD_CCS_FOOD_TAX,"Existence of tax on foods high in fat, sugars or salt",EN
+NCD_CCS_BP_SVY,"Has conducted a recent, national adult risk factor survey covering raised blood pressure/hypertension",EN
+TOB_R_PRICE,Retail price for tobacco and nicotine products,EN
+FOODBORNE_ILL_100K,Foodborne illnesses per 100 000,EN
+TAXBEV_ABV,"Alcohol content in beverage in percent of volume, (alcohol by volume) (ABV %)",EN
+Adult_daily_smokeless,Prevalence of daily smokeless tobacco use among adults (%),EN
+NCD_CCS_PA_POL_CHILDCARE,Existence of policy promoting physical activity: childcare settings,EN
+NCD_CCS_ALC_MGMT_GUIDE,Existence of evidence-based national guidelines/protocols/standards for the management of alcohol use disorders,EN
+FOODBORNE_DTH_100K,Foodborne deaths per 100 000,EN
+NCD_CCS_PA_POL_PUBLIC,Existence of policy promoting physical activity: public open spaces,EN
+NCD_CCS_OVWT_SVY,"Has conducted a recent, national adult risk factor survey covering overweight and obesity",EN
+FOODBORNE_YLD,Foodborne years lived with disability,EN
+FINPROTECTION_IMP_NP_REL_LEVEL_MILLION,"Total population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (millions, regional, global)",EN
+FINPROTECTION_IMP_PREL_LEVEL_MILLION,"Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (millions, regional, global)",EN
+FOODBORNE_YLD_CASE_TOTAL,"Foodborne years lived with disability per case, all ages",EN
+Yth_curr_smokeless,Prevalence of current smokeless tobacco use among adolescents (%),EN
+TB_cc_prct_DSTB,Percentage of TB-affected households facing costs >20% of household income or expenditure due to DS-TB.,EN
+Adult_curr_cig_smoking,Prevalence of current cigarette smoking among adults (%),EN
+FOODBORNE_DALY_CASE,Foodborne disability-adjusted life years per case,EN
+FINPROTECTION_IMP_PG_215_STD,"Increase in poverty gap due to household health expenditures, expressed as a proportion of the $2.15 a-day poverty line (%, national, rural, urban)",EN
+TAXBEV_ALCOHOLSALESTATUS,Status of alcohol sale,EN
+NCD_CCS_PA_GUIDELINES_UNDER5,Existence of national guidelines for physical activity for children under 5,EN
+TOBACCO_MPOWER_M3_TOBACCOUSESMOKINGSCHOOL,"Tobacco Monitor: M3 school-based national surveys, tobacco use and smoking",EN
+SA_0000001459_AA,"Road traffic crash deaths, alcohol-attributable, age-standardized death rates, per 100,000 population",EN
+Adult_curr_tob_use,Prevalence of current tobacco use among adults (%),EN
+FOODBORNE_ILL_LT5,"Foodborne illnesses, aged less than 5 years",EN
+R_type_variant,Most sold brand of other tobacco type,EN
+TOBACCO_MPOWER_E1_DIRECTADBANS,Tobacco Enforce bans: E1 direct advertising,EN
+TOBACCO_MPOWER_W2C_TOBACCOSMOKELESS,"Tobacco Warning: W2c smokeless tobacco packaging health warnings, other characteristics",EN
+P_comprehensive_subnat,Subnational smoking bans - at least one jurisdiction has a comprehensive ban in place,EN
+FOODBORNE_DALY_CASE_TOTAL,"Foodborne disability-adjusted life years per case, all ages",EN
+FOODBORNE_DTH_100K_GE5,"Foodborne deaths per 100 000, aged 5 years and above",EN
+FOODBORNE_DTH,Foodborne deaths,EN
+NCD_CCS_PA_TAX,Existence of tax incentives to promote physical activity,EN
+FINPROTECTION_IMP_P215_POP,"Population pushed further below the $2.15 a day poverty line by household health expenditures (%, national, rural, urban)",EN
+R_admin_tax_stamps_cig,"Tobacco tax administration: Tax stamps, fiscal marks, banderole or other types of marking are applied on cigarettes",EN
+Yth_curr_tob_smoking,Prevalence of current tobacco smoking among adolescents (%),EN
+R_admin_tax_stamps_other,"Tobacco tax administration: Tax stamps, fiscal marks, banderole or other types of marking are applied on other tobacco products",EN
+Yth_curr_tob_use,Prevalence of current tobacco use among adolescents (%),EN
+R_admin_identifier_track_and_trace,Tobacco tax administration: Marking/unique identifier contains data for track and tracing purposes,EN
+FOODBORNE_DTH_LT5,"Foodborne deaths, aged less than 5 years",EN
+SA_0000001807_AA,"Cancer, alcohol-attributable, age-standardized death rates, per 100,000 population",EN
+NCD_CCS_DIAB_TARGET,Existence of a national target on diabetes,EN
+FOODBORNE_YLL_CASE_GE5,"Foodborne years of life lost per case, aged 5 years and above",EN
+TB_cc_prct_Q2,Percentage of TB-affected households facing costs >20% of household income or expenditure due to TB among Q2 income or expenditure quantile.,EN
+NCD_CCS_PA_GUIDELINES,Existence of national guidelines for physical activity,EN
+FINPROTECTION_IMP_NP_215_LEVEL_MILLION,"Total population pushed below the $2.15 a day poverty line by household health expenditures (millions, regional, global)",EN
+R_admin_duty_free_banned,Tobacco tax administration: Sales of duty (or excise) free cigarettes banned,EN
+ORALHEALTH_DENTALHEALTHCARE_EXP_TOTAL,Total expenditure on dental healthcare in million (US$),EN
+R_min_price_policy,Tobacco tax structure: A minimum price policy is implemented,EN
+SA_0000001840,"Alcohol, heavy continuous drinkers, drinkers only, past year (%)",EN
+FOODBORNE_DALY_100k_TOTAL,"Foodborne disability-adjusted life years per 100 000, all ages",EN
+FINPROTECTION_IMP_NP_365_LEVEL_SH,"Total population pushed below the $3.65 a day poverty line by household health expenditures (%, regional, global)",EN
+IHRSPAR_CAPACITY04,Food Safety (SPAR),EN
