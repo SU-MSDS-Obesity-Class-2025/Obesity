@@ -16,12 +16,18 @@ git lfs pull
 
 # Install Python dependencies
 pip install -r requirements.txt
+
+# Install nbstripout (strips notebook outputs from Git commits)
+pip install nbstripout
+nbstripout --install
 ```
 
 **Note:** Git LFS is required to download the large data file (`who_obesity_data.csv`, ~689 MB). 
 - **Windows:** Download from [git-lfs.github.com](https://git-lfs.github.com/)
 - **Mac:** `brew install git-lfs`
 - **Linux:** `sudo apt-get install git-lfs` or `sudo yum install git-lfs`
+
+**Note:** nbstripout automatically removes notebook outputs from Git commits while keeping them in your local files.
 
 ### Google Colab Setup
 
