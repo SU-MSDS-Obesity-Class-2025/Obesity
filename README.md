@@ -6,10 +6,22 @@ Analyzing how socioeconomic factors affect obesity
 
 ### Local Setup
 ```bash
+# Clone the repository
 git clone https://github.com/SU-MSDS-Obesity-Class-2025/Obesity.git
 cd Obesity
+
+# Install Git LFS (required for large data files)
+git lfs install
+git lfs pull
+
+# Install Python dependencies
 pip install -r requirements.txt
 ```
+
+**Note:** Git LFS is required to download the large data file (`who_obesity_data.csv`, ~689 MB). 
+- **Windows:** Download from [git-lfs.github.com](https://git-lfs.github.com/)
+- **Mac:** `brew install git-lfs`
+- **Linux:** `sudo apt-get install git-lfs` or `sudo yum install git-lfs`
 
 ### Google Colab Setup
 
