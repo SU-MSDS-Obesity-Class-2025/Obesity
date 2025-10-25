@@ -22,16 +22,12 @@ pip install nbstripout
 nbstripout --install
 ```
 
-**Note:** Git LFS is required to download the large data file (`who_obesity_data.csv`, ~689 MB). 
-- **Windows:** Download from [git-lfs.github.com](https://git-lfs.github.com/)
-- **Mac:** `brew install git-lfs`
-- **Linux:** `sudo apt-get install git-lfs` or `sudo yum install git-lfs`
+**Note:** Git LFS is required to download the large data file (`who_obesity_data.csv`). 
 
-**Note:** nbstripout automatically removes notebook outputs from Git commits while keeping them in your local files.
 
 ### Google Colab Setup
 
-**Note:** Data files (~600MB) are included in the repository. The setup below connects Colab to your Drive so notebooks can access these local data files using relative paths.
+**Note:** Large data files are included in the repository. The setup below connects Colab to your Drive so notebooks can access these local data files using relative paths.
 
 1. **Clone to your Google Drive** (one time):
    ```bash
@@ -43,15 +39,10 @@ nbstripout --install
    - Navigate to `Obesity/code/` in your Drive
    - Double-click the notebook to open in Colab
 
-3. **Edit the first cell** (one time):
+3. **Edit setup collab cell** (one time):
    - Uncomment the setup lines
    - Change the path to where you cloned the repo
    - Example: `os.chdir('/content/drive/MyDrive/Obesity')`
-
-4. **Run the setup cell**:
-   - Mounts Drive, sets working directory to project root
-   - Installs packages from requirements.txt
-   - Now relative paths like `../data/` work correctly!
 
 
 ## Project Structure
