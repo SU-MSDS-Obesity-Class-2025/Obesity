@@ -204,5 +204,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# macOS
+.DS_Store
+
 # Large data files - use Git LFS
 data/who_obesity_data.csv
