@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python update_notebook.py:*)",
+      "Bash(python -c:*)",
+      "Bash(rm:*)",
+      "Bash(python simplify_save.py:*)",
+      "Bash(python fix_fstrings.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

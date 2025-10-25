@@ -7,12 +7,3 @@ matplotlib
 seaborn
 
 
-# Machine Learning
-scikit-learn
-statsmodels
-
-
-# Jupyter & Development
-jupyter
-notebook
-ipython
