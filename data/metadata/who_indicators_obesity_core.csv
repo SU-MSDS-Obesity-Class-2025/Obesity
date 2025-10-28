@@ -1,20 +1,10 @@
-IndicatorCode,IndicatorName
-NCD_BMI_30A,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)"
-NCD_BMI_25A,"Prevalence of overweight among adults, BMI &GreaterEqual; 25 (age-standardized estimate) (%)"
-NCD_BMI_30C,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (crude estimate) (%)"
-NCD_BMI_PLUS2C,"Prevalence of obesity among children and adolescents, BMI > +2 standard deviations above the median (crude estimate) (%)"
-NCD_GLUC_04,Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate)
-BP_04,Raised blood pressure (SBP>=140 OR DBP>=90) (age-standardized estimate)
-WHS9_86,Population (in thousands) total
-WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%)
-WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%)
-WHOSIS_000002,Healthy life expectancy (HALE) at birth (years)
-SA_0000001400,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), by beverage type"
-M_Est_smk_curr,Estimate of current tobacco smoking prevalence (%)
-NCD_PAC,Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)
-NCD_CHOL_MEANTOTALCHOL_A,"Mean total cholesterol, age-standardized"
-RS_576,Gross national income per capita (Atlas method)
-WHS9_93,Gross national income per capita (PPP int. $)
-CCO_1,Poverty headcount ratio at $1.25 a day (PPP) (% of population)
-CCO_3,Gender inequality index rank
-NCD_CCS_SaltPol,Existence of any policies to reduce population salt consumption
+IndicatorCode
+NCD_BMI_30A
+SA_0000001400
+NCD_PAA
+Adult_curr_tob_use
+M_Est_smk_curr
+NCD_PAC
+WHS9_93
+CCO_1
+NCD_CCS_SaltPol
