@@ -7,3 +7,15 @@ matplotlib
 seaborn
 
 
+<<<<<<< HEAD
+# Machine Learning
+scikit-learn
+statsmodels
+
+
+# Jupyter & Development
+jupyter
+notebook
+ipython
+=======
+>>>>>>> origin/main

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# Obesity
+Data Science Project - How socioeconomic factors affect obesity 
+=======
 # Obesity Research Project
 
 Analyzing how socioeconomic factors affect obesity
@@ -78,3 +82,4 @@ The project uses WHO Global Health Observatory data:
 
 
 
+>>>>>>> origin/main
