@@ -1,13 +1,202 @@
-IndicatorCode
-NCD_BMI_30A
-SA_0000001400
-NCD_PAA
-Adult_curr_tob_use
-M_Est_smk_curr
-NCD_PAC
-WHS9_93
-CCO_1
-NCD_CCS_SaltPol
-RS_193
-RS_576
-NY.GDP.MKTP.CD
+IndicatorCode,IndicatorName
+NCD_BMI_30A,"Prevalence of obesity among adults, BMI &GreaterEqual; 30 (age-standardized estimate) (%)"
+NUTRITION_ANAEMIA_CHILDREN_PREV,Prevalence of anaemia in children aged 6-59 months (%)
+SDGIHR,Average of 13 International Health Regulations core capacity scores
+SA_0000001688,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2), three-year average"
+WHS3_46,Total tetanus - number of reported cases
+PHE_HHAIR_PROP_POP_CLEAN_FUELS,Proportion of population with primary reliance on clean fuels and technologies for cooking (%)
+NCD_HYP_PREVALENCE_C,"Hypertension among adults aged 30-79 years, prevalence, crude"
+NUTOVERWEIGHTNUM,"Overweight numbers among children under 5 years of age (thousands), model-based estimates"
+NCD_HYP_DIAGNOSIS_C,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, crude (%)"
+NCD_HYP_CONTROL_A,"Hypertension effective treatment coverage (controlled hypertension )among adults aged 30-79, age-standardized (%)"
+NCD_HYP_PREVALENCE_A,"Hypertension among adults aged 30-79 years, prevalence, age-standardized"
+NCD_HYP_CONTROL_C,"Hypertension: effective treatment coverage (controlled hypertension) among adults aged 30-79 with hypertension, crude (%)"
+NUTOVERWEIGHTPREV,"Overweight prevalence among children under 5 years of age (% weight-for-height >+2 SD), model-based estimates"
+NCD_HYP_TREATMENT_A,"Hypertension treatment coverage among adults aged 30-79 with hypertension, age-standardized (%)"
+NCD_HYP_TREATMENT_C,"Hypertension treatment coverage among adults aged 30-79 with hypertension, crude (%)"
+NCD_HYP_DIAGNOSIS_A,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, age-standardized (%)"
+TB_rdst_num,The number of people with susceptibility test result for rifampicin among bacteriologically confirmed pulmonary TB patients.
+AIR_5,Ambient air pollution attributable death rate (per 100 000 population)
+SDGAIRBOD,Ambient and household air pollution attributable death rate (per 100 000 population)
+AIR_9,Ambient air pollution attributable DALYs  (per 100 000 population)
+NCD_DIABETES_PREVALENCE_AGESTD,"Prevalence of diabetes, age-standardized"
+NCD_DIABETES_PREVALENCE_CRUDE,"Prevalence of diabetes, crude"
+MDG_0000000020,Incidence of tuberculosis (per 100 000 population per year)
+AIR_51,Household air pollution attributable death rate (per 100 000 population)
+MDG_0000000017,Deaths due to tuberculosis among HIV-negative people (per 100 000 population)
+AIR_17,Household air pollution attributable DALYs (per 100 000 population)
+NCD_PAA,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%)
+NCD_GLUC_04,Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate)
+NCD_PAC,Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)
+NCD_GLUC_03,Raised fasting blood glucose (>= 7.0 mmol/L) (crude estimate)
+WHS5_512,Population using solid fuels (%)
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
+WHS4_100,Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+WHS4_117,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%)
+WHS4_129,Hib (Hib3) immunization coverage among 1-year-olds (%)
+WHS4_544,Polio (Pol3) immunization coverage among 1-year-olds (%)
+WHS8_110,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%)
+PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%)
+ROTAC,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%)
+RS_198,Estimated road traffic death rate (per 100 000 population)
+TB_e_inc_tbhiv_100k,Incidence of tuberculosis (per 100 000 population) (HIV-positive cases)
+HEPB_HBSAG_CARRIER,Hepatitis B surface antigen (HBsAG) carriers (per 100 000 population)
+NCD_CHOL_MEANNONHDL_C,"Mean Non-HDL cholesterol, crude"
+NCD_CHOL_MEANTOTALCHOL_C,"Mean total cholesterol,  crude"
+NCD_CHOL_MEANTOTALCHOL_A,"Mean total cholesterol,  age-standardized"
+NCD_CHOL_MEANHDL_A,"Mean HDL cholesterol, age-standardized"
+NCD_CHOL_MEANNONHDL_A,"Mean Non-HDL cholesterol, age-standardized"
+WSH_WATER_BASIC,Population using at least basic drinking-water services (%)
+WSH_SANITATION_OD,Population practising open defecation (%)
+WSH_SANITATION_BASIC,Population using at least basic sanitation services (%)
+NCD_CHOL_MEANHDL_C,"Mean HDL cholesterol, crude"
+SA_0000001818,"Alcohol, total  (recorded + unrecorded) per capita (15+) consumption, projections"
+SDGHIV,New HIV infections (per 1000 uninfected population)
+PHE_HHAIR_PROP_POP_POLLUTING_FUELS,Proportion of population with primary reliance on polluting fuels and technologies for cooking (%)
+PHE_HHAIR_POP_CLEAN_FUELS,Population with primary reliance on clean fuels and technologies for cooking (in millions)
+PHE_HHAIR_POP_POLLUTING_FUELS,Population with primary reliance on polluting fuels and technologies for cooking (in millions)
+TOB_R_PRICE,Retail price for tobacco and nicotine products
+SI_POV_DAY1,Proportion of population below the international poverty line of US$1.90 per day (%)
+SDGPOISON,Mortality rate attributed to unintentional poisoning (per 100 000 population)
+WHOSIS_000001,Life expectancy at birth (years)
+WHS2_131,Age-standardized NCD mortality rate  (per 100 000 population)
+WHOSIS_000004,Adult mortality rate (probability of dying between 15 and 60 years per 1000 population)
+WHOSIS_000015,Life expectancy at age 60 (years)
+WHOSIS_000007,Healthy life expectancy (HALE) at age 60 (years)
+WHOSIS_000002,Healthy life expectancy (HALE) at birth (years)
+VIOLENCE_HOMICIDERATE,Estimates of rates of homicides per 100 000 population
+MH_12,Age-standardized suicide rates (per 100 000 population)
+W6_font_B,"Does the law mandate font style, font size and colour of health warnings on other smoked tobacco packaging?"
+W6_font_C,"Does the law mandate font style, font size and colour of health warnings on smokeless tobacco packaging?"
+W9_no_obscure_C,Health warnings on smokeless tobacco packaging must not be obscured in any way including by required markings such as tax stamps
+W_Group,Warning about the dangers of tobacco
+W8_princ_langs_B,Are the health warnings on other smoked tobacco packaging written in the principal language(s) of the country?
+W8_princ_langs_C,Are the health warnings on smokeless tobacco packaging written in the principal language(s) of the country?
+W9_no_obscure_B,Health warnings on other smoked tobacco packaging must not be obscured in any way including by required markings such as tax stamps
+W2_pc_front_back_B,Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco packaging
+W2_pc_front_back_C,Percentage of principal display area mandated to be covered by health warnings - front and back of smokeless tobacco packaging
+W3_pc_front_B,Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging
+W3_pc_front_C,Percentage of principal display area mandated to be covered by health warnings - front of smokeless tobacco packaging
+W4_pc_back_B,Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging
+W4_pc_back_C,Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging
+W5_top_side_B,Health warnings on other smoked tobacco packaging must be placed at the top of the principal display areas of the package
+W5_top_side_C,Health warnings on smokeless tobacco packaging must be placed at the top of the principal display areas of the package
+E22_subnational_authority_exists,"Subnational bans on tobacco advertising, promotion and sponsorship authority exists"
+E23_vending_machines,Ban on tobacco vending machines
+E24_internet_sales_ban,Ban on internet sales of tobacco products
+E6b_ban_display_pt_of_sale,Ban on display of tobacco products at points of sale
+E9_free_distrib,Ban on free distribution of tobacco products in the mail or through other means
+E17b_csr_promo_self,Ban on tobacco companies/the tobacco industry publicizing their CSR activities
+E17c_csr_promo_others,Ban on entities other than tobacco companies/the tobacco industry publicizing the CSR activities of the tobacco companies/industry
+E18_csr_anti_tobacco_media,"Ban on tobacco companies funding or making contributions (including in-kind contributions) to smoking prevention media campaigns, including those directed at youth"
+E1_nat_tv_radio,Ban on advertising: National TV and radio
+E13_brand_placement,Ban on appearance of tobacco brands in TV and/or films (product placement)
+E14a_prod_tv_films,Ban on appearance of tobacco products in TV and/or films
+E14b_movies_anti_tob_ads,"Requirement to present prescribed anti-tobacco ads before, during or after the broadcasting or showing of any visual entertainment media product that depicts tobacco products, use or images"
+E15c_sponsor_publicity,"Banning the publicity of financial or other sponsorship or support by the tobacco industry of events, activities, individuals"
+E11_brand_stretching,Ban on non-tobacco goods AND services identified with tobacco brand names
+E12_brand_sharing,Ban on brand name of non-tobacco products used for tobacco product
+E_Group,"Enforcing bans on tobacco advertising, promotion and sponsorship"
+E_compl_e11,Compliance with ban on use of brand name of non-tobacco product for tobacco product (score)
+E_compl_e12,Compliance with ban on indentifying non-tobacco products with tobacco brand names (score)
+E_compl_e13,Compliance with ban on appearance of tobacco brands in TV and/or films (score)
+W7_rotation_B,Are the health warnings on other smoked tobacco packaging rotating?
+W6_font_A,"Does the law mandate font style, font size and colour of health warnings on cigarette packaging?"
+TOBACCO_MPOWER_E2_INDIRECTADBANS,Tobacco Enforce bans: E2 indirect advertising
+TOBACCO_MPOWER_E1_DIRECTADBANS,Tobacco Enforce bans: E1 direct advertising
+TOBACCO_MPOWER_R_INFLATIONADJUSTEDPRICES,Tobacco Raise taxes: Inflation-adjusted prices for most sold brand of cigarettes
+TOBACCO_MPOWER_R_AFFORDABILITY,Tobacco Raise taxes: Affordability
+TOBACCO_MPOWER_P2_SMOKEFREEPLACEDETAILS,"Tobacco Protect people: P2 smoke-free places, additional characteristics"
+TOBACCO_MPOWER_P1_SMOKEFREEPLACES,Tobacco Protect people: P1 smoke-free places
+TOBACCO_MPOWER_OVERVIEW,"Tobacco MPOWER overview: Monitor, Protect people, Offer help, Warn of dangers, Enforce bans, Raise taxes"
+TOBACCO_MPOWER_O2_MEDICATIONAVAILABILITY,Tobacco Offer help: O2 Availability of tobacco cessation medications
+TOBACCO_MPOWER_O1_TREATMENTSUPPORT,Tobacco Offer help: O1 Support for treatment of tobacco dependence / Availability of smoking cessation support
+TOBACCO_MPOWER_W1B_TOBACCOSMOKED,Tobacco Warning: W1b smoked tobacco packaging health warnings
+TOBACCO_MPOWER_W1A_CIGARETTES,Tobacco Warning: W1a cigarette packaging health warnings
+TOBACCO_MPOWER_R_TAXSTRUCTURE,Tobacco Raise taxes: Tobacco tax structure
+TOBACCO_MPOWER_R_TAXREVENUEPREVIOUS,"Tobacco Raise taxes: Annual tax revenues from tobacco products, previous reporting period"
+TOBACCO_MPOWER_R_TAXREVENUELATEST,"Tobacco Raise taxes: Annual tax revenues from tobacco products, latest reporting period"
+TOBACCO_MPOWER_R_TAXADMINISTRATION,Tobacco Raise taxes: Tax administration
+TOBACCO_MPOWER_R_TAX,Tobacco Raise taxes: National taxes for tobacco and nicotine products
+TOBACCO_MPOWER_R_PRICE,Tobacco Raise taxes: Retail price for tobacco and nicotine products
+TOBACCO_MPOWER_W3_MASSMEDIA,Tobacco Warning: W3 anti-tobacco mass-media campaigns
+TOBACCO_MPOWER_W2C_TOBACCOSMOKELESS,"Tobacco Warning: W2c smokeless tobacco packaging health warnings, other characteristics"
+TOBACCO_MPOWER_W2B_TOBACCOSMOKED,"Tobacco Warning: W2b smoked tobacco packaging health warnings, other characteristics"
+TOBACCO_MPOWER_W1C_TOBACCOSMOKELESS,Tobacco Warning: W1c smokeless tobacco packaging health warnings
+TOBACCO_MPOWER_W2A_CIGARETTES,"Tobacco Warning: W2a cigarette packaging health warnings, other characteristics"
+W10_graphic_B,Do the health warnings on other smoked tobacco packaging include a photograph or graphic?
+W10_graphic_A,Do the health warnings on cigarette packaging include a photograph or graphic?
+W12_imports_dutyfree_C,Health warnings on smokeless tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+W-MM_Group,Anti-tobacco mass media campaigns
+W13_ind_liability_C,Health warnings on smokeless tobacco packaging do not remove or diminish the liability of the tobacco industry
+W13_ind_liability_B,Health warnings on other smoked tobacco packaging do not remove or diminish the liability of the tobacco industry
+W12_imports_dutyfree_B,Health warnings on other smoked tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+W13_ind_liability_A,Health warnings on cigarette packaging do not remove or diminish the liability of the tobacco industry
+W11_outside_pack_B,Do health warnings appear on each other smoked tobacco package and any outside packaging and labelling used in the retail sale?
+W11_outside_pack_C,Do health warnings appear on each smokeless tobacco package and any outside packaging and labelling used in the retail sale?
+W18_misleading_terms_C,Ban on deceitful terms on smokeless tobacco packaging
+W18_misleading_terms_B,Ban on deceitful terms on other smoked tobacco packaging
+W10_graphic_C,Do the health warnings on smokeless tobacco packaging include a photograph or graphic?
+W17_fines_B,Health warnings on other smoked tobacco packaging law requires or establishes fines for violations
+W16_number_hw_C,How many health warnings are approved by the law for smokeless tobacco packaging?
+W16_number_hw_B,How many health warnings are approved by the law for other smoked tobacco packaging?
+W15_specific_hw_C,Does the law mandate specific health warnings on smokeless tobacco packaging?
+W15_specific_hw_B,Does the law mandate specific health warnings on other smoked tobacco packaging?
+W14_harm_effects_C,Do health warnings on smokeless tobacco packaging describe the harmful effects of tobacco use on health?
+W14_harm_effects_B,Do health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health?
+W14_harm_effects_A,Do health warnings on cigarette packaging describe the harmful effects of tobacco use on health?
+W1_HW_law_C,Law mandates that health warnings appear on smokeless tobacco packages
+W1_HW_law_B,Law mandates that health warnings appear on other smoked tobacco packages
+W1_HW_law_A,Law mandates that health warnings appear on tobacco packages
+W19_colours_numbers_C,Smokeless tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+W19_colours_numbers_B,Other smoked tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+W20_flavours_C,Smokeless tobacco packaging and labelling must not use descriptors depicting flavours
+W20_flavours_B,Other smoked tobacco packaging and labelling must not use descriptors depicting flavours
+W17_fines_C,Health warnings on smokeless tobacco packaging law requires or establishes fines for violations
+W23_emissions_front_back_B,Other smoked tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+W22_emissions_qual_C,Smokeless tobacco packaging and labelling must display qualitative information on relevant constituents and emissions
+W22_emissions_qual_B,Other smoked tobacco packaging and labelling must display qualitative information on relevant constituents and emissions
+W21_emissions_quant_C,Smokeless tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+W21_emissions_quant_B,Other smoked tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+W25_quitline_number_C,The quit line number must appear on smokeless tobacco packaging or labelling
+W25_quitline_number_B,The quit line number must appear on other smoked tobacco packaging or labelling
+W26_plain_packaging_C,Plain packaging of smokeless tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).
+W26_plain_packaging_B,Plain packaging of other smoked tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).
+W24_exp_date_C,Smokeless tobacco packaging and labelling must not display expiry dates
+W24_exp_date_B,Other smoked tobacco packaging and labelling must not display expiry dates
+E_compl_e14,Compliance with ban on appearance of tobacco products in TV and/or films (score)
+W23_emissions_front_back_C,Smokeless tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+W7_rotation_C,Are the health warnings on smokeless tobacco packaging rotating?
+P11_fines_any,National smoking ban: FINES FOR VIOLATIONS
+P5_indoor_off,National smoking ban in INDOOR OFFICES
+P10_subnat_auth_exists,Subnational smoking bans - authority exists
+P4_govt,National smoking ban in GOVERNMENT FACILITIES
+P9_all_other,National smoking ban in ALL OTHER INDOOR PUBLIC PLACES
+P2_education,National smoking ban in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES
+P3_universities,National smoking ban in UNIVERSITIES
+P6_restaurants,National smoking ban in RESTAURANTS
+P7_pubs,National smoking ban in PUBS AND BARS
+P8_pub_transp,National smoking ban in PUBLIC TRANSPORT
+M_Group,Monitoring tobacco use and prevention policies
+P_compl_p2,Compliance with smoke-free education facilities except universities law (score)
+P_Group,Protecting people from tobacco smoke
+P_count_places_sf,National smoking ban: NUMBER OF PLACES SMOKE-FREE
+P_comprehensive_subnat,Subnational smoking bans - at least one jurisdiction has a comprehensive ban in place
+R_admin_tax_stamps_other,"Tobacco tax administration: Tax stamps, fiscal marks, banderole or other types of marking are applied on other tobacco products"
+R_admin_unique_identifier,Tobacco tax administration: Unique identifier
+R_admin_tax_stamps_cig,"Tobacco tax administration: Tax stamps, fiscal marks, banderole or other types of marking are applied on cigarettes"
+R_admin_covert_marking,Tobacco tax administration: Marking is covert
+R_Group,Raising taxes on tobacco
+R_Ad_val_estimate,Most sold brand of cigarettes - taxes as a % of price - ad valorem excise
+TOBACCO_MPOWER_NTCP,Tobacco MPOWER: National tobacco control programmes (NTCP)
+M5_youth_representative,Most recent school-based survey among adolescents was representative of the national population
+M2_adult_representative,Most recent survey among adults was representative of the national population
+R_afford_price_gap_decreased,Tobacco tax structure: Price gap decreased over the last two years (cheapest brand of cigarettes versus the premium brand)
+R_afford_tax_auto_adjust,Tobacco tax structure: Specific tax component automatically adjusted for inflation (or other)
+R_min_price_policy,Tobacco tax structure: A minimum price policy is implemented
+R_type_variant,Most sold brand of other tobacco type
+R_admin_duty_free_banned,Tobacco tax administration: Sales of duty (or excise) free cigarettes banned
+R_admin_identifier_track_and_trace,Tobacco tax administration: Marking/unique identifier contains data for track and tracing purposes
+R_admin_overt_marking,Tobacco tax administration: Marking is overt
+TOBACCO_MPOWER_M1_TOBACCOUSESMOKING,"Tobacco Monitor: M1 population-based national surveys, tobacco use and smoking"
+TOBACCO_MPOWER_M2_SMOKELESSECIGARETTES,"Tobacco Monitor: M2 population-based national surveys, smokeless tobacco or e-cigarettes"
