@@ -1,4 +1,4 @@
-# Obesity Research Project
+# Obesity Research Project.
 Analyzing how socioeconomic factors affect obesity
 
 ## Quick Start
