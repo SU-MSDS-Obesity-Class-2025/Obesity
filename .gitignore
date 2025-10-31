@@ -210,4 +210,3 @@ __marimo__/
 .DS_Store
 
 # Large data files - use Git LFS
-data/who_obesity_data.csv
