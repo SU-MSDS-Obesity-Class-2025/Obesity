@@ -209,4 +209,6 @@ __marimo__/
 # macOS
 .DS_Store
 
+settings.local.json
+
 # Large data files - use Git LFS

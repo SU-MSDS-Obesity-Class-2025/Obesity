@@ -1,0 +1,23 @@
+IndicatorCode,IndicatorName,Correlation,N_observations
+NCD_GLUC_03,Raised fasting blood glucose (>= 7.0 mmol/L) (crude estimate),0.8778997480275258,5025
+NCD_GLUC_04,Raised fasting blood glucose (>=7.0 mmol/L) (age-standardized estimate),0.8343352100431878,5025
+NCD_DIABETES_PREVALENCE_CRUDE,"Prevalence of diabetes, crude",0.7532076917605146,6930
+NCD_DIABETES_PREVALENCE_AGESTD,"Prevalence of diabetes, age-standardized",0.6849871947373768,6930
+WSH_SANITATION_BASIC,Population using at least basic sanitation services (%),0.5015857159778387,4522
+PHE_HHAIR_PROP_POP_CLEAN_FUELS,Proportion of population with primary reliance on clean fuels and technologies for cooking (%),0.4766607950499007,4568
+NCD_PAC,Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%),0.47637612502192717,4715
+NCD_HYP_TREATMENT_A,"Hypertension treatment coverage among adults aged 30-79 with hypertension, age-standardized (%)",0.4763493781440222,6150
+NCD_PAA,Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%),0.4652736759093987,4715
+WSH_WATER_BASIC,Population using at least basic drinking-water services (%),0.4591209606329975,4526
+MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),0.45672539600226386,4650
+WHOSIS_000001,Life expectancy at birth (years),0.444959552957823,4312
+NCD_CHOL_MEANNONHDL_A,"Mean Non-HDL cholesterol, age-standardized",0.4440251640124897,5858
+NCD_HYP_TREATMENT_C,"Hypertension treatment coverage among adults aged 30-79 with hypertension, crude (%)",0.4408191372784405,6150
+WHOSIS_000002,Healthy life expectancy (HALE) at birth (years),0.43855201567240193,4312
+NCD_HYP_DIAGNOSIS_A,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, age-standardized (%)",0.433013505911329,6150
+NCD_CHOL_MEANNONHDL_C,"Mean Non-HDL cholesterol, crude",0.42547601562689974,5858
+NCD_HYP_DIAGNOSIS_C,"Hypertension: diagnosis coverage among adults aged 30-79 with hypertension, crude (%)",0.4031071730867573,6150
+PHE_HHAIR_PROP_POP_POLLUTING_FUELS,Proportion of population with primary reliance on polluting fuels and technologies for cooking (%),-0.42635897379521936,6534
+MDG_0000000017,Deaths due to tuberculosis among HIV-negative people (per 100 000 population),-0.43080472502881767,4669
+WHS5_512,Population using solid fuels (%),-0.46752294090690244,123
+SI_POV_DAY1,Proportion of population below the international poverty line of US$1.90 per day (%),-0.5342353062502233,1144

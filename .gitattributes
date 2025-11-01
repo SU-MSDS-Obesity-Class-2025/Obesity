@@ -1,2 +1,1 @@
-data/who_obesity_data.csv filter=lfs diff=lfs merge=lfs -text
-data/who_obesity_core_data.csv filter=lfs diff=lfs merge=lfs -text
+archive/data/who_obesity_data.csv filter=lfs diff=lfs merge=lfs -text
