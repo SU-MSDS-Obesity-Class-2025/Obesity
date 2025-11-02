@@ -1,5 +1,14 @@
-# Obesity Research Project.
-Analyzing how socioeconomic factors affect obesity
+# Socioeconomic and Lifestyle Determinants of Global Obesity Rates
+>Analyzing how socioeconomic factors affect obesity rate across different countries 
+
+## Project Overview
+
+
+- **Objective:** This project aims to examine how economic status, lifestyle behaviors, and health indicators relate to national obesity rates. By analyzing these variables across countries, we seek to identify key predictors of obesity and understand how social and economic development influence population health outcomes.
+- **Domain:** Health
+- **Key Techniques:** Regression, Data Imputation, Exploratory Data Analysis
+
+
 
 ## Quick Start
 
