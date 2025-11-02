@@ -70,19 +70,21 @@ Obesity/
 └── requirements.txt
 ```
 
-## Data Files
+## Data
 
 The project uses WHO Global Health Observatory data:
 
 ### Main Datasets
 - **who_obesity_data.csv** - Main dataset (~689 MB, managed with Git LFS)
 - **who_obesity_core_data.csv** - Core obesity data subset (~24 MB)
-- **Gross national income per capita.csv** - GNI per capita data
+- **GDP_data.csv** - GDP data from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv)
 
 ### Metadata (Indicator Definitions)
 - **who_indicators_all.csv** - Complete catalog of all WHO indicators
 - **who_indicators_obesity_related.csv** - Curated list of 819 obesity-related indicators
 - **who_indicators_obesity_core.csv** - Core indicator definitions (19 indicators)
+
+### Describtion
 
 
 
