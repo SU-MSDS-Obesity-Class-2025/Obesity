@@ -85,6 +85,6 @@ The project uses WHO Global Health Observatory data:
 - **who_indicators_obesity_core.csv** - Core indicator definitions (19 indicators)
 
 ### Describtion
-
+The final dataset combines information from World Health Organization (WHO) and World Bank, containing socioeconomic and lifestyle data across all countries. All data are stored in CSV format and merged into a single DataFrame for analysis.
 
 
