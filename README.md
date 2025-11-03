@@ -116,9 +116,11 @@ The project uses WHO Global Health Observatory data:
       - The data in this dataset is collected from Global Health Observatory (GHO)
           (Web source: https://www.who.int/data/gho). The GHO is the WHO's main portal for health-related statistics, providing access to over 1,000 indicators out of them we have collected data for 9 most relavant indicators  
       - It contains Date, Dim1, Dim1Type, Dim2, Dim2Type, Dim3, Dim3Type, High, Id, IndicatorCode, IndicatorName, Low, NumericValue, ParentLocation, ParentLocationCode, SpatialDim, SpatialDimType, TimeDim, TimeDimType, TimeDimensionBegin, TimeDimensionEnd, TimeDimensionValue, Value as columns. It contains 146334 rows in csv format. 
+   - GDP dataset: 
+      - The GDP data is collected from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv). It contains GDP data of every country by year with following columns: Country Name, Country Code, Indicator Name, Indicator Code, Year and contains 265 rows in csv format.  
 
-   
-    Most Relavent Indicators:
+    
+    Relavent Indicators:
 
     | Indicator Code                         | Indicator Name                                                                                          |
     |----------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -131,11 +133,7 @@ The project uses WHO Global Health Observatory data:
     | WHOSIS_000001                          | Life expectancy at birth (years)                                                                        |
     | WSH_SANITATION_BASIC                   | Population using at least basic sanitation services (%)                                                 |
     | PHE_HHAIR_PROP_POP_POLLUTING_FUELS     | Proportion of population with primary reliance on polluting fuels (%)                                   |
-    | GDP_CURRENT_USD                        | GDP per capita (World Bank)                                                                             | 
-
-
-   - GDP dataset: 
-      - The GDP data is collected from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv). It contains GDP data of every country by year with following columns: Country Name, Country Code, Indicator Name, Indicator Code, Year and contains 265 rows in csv format.   
+    | GDP_CURRENT_USD                        | GDP per capita (World Bank)                                                                             |    
 
 ## Requirements
 See `requirements.txt`.
