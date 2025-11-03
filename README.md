@@ -118,7 +118,7 @@ The project uses WHO Global Health Observatory data:
       - It contains Date, Dim1, Dim1Type, Dim2, Dim2Type, Dim3, Dim3Type, High, Id, IndicatorCode, IndicatorName, Low, NumericValue, ParentLocation, ParentLocationCode, SpatialDim, SpatialDimType, TimeDim, TimeDimType, TimeDimensionBegin, TimeDimensionEnd, TimeDimensionValue, Value as columns. It contains 146334 rows in csv format. 
 
    
-   Most Relavent Indicators:
+    Most Relavent Indicators:
 
     | Indicator Code                         | Indicator Name                                                                                          |
     |----------------------------------------|---------------------------------------------------------------------------------------------------------|
@@ -133,8 +133,8 @@ The project uses WHO Global Health Observatory data:
     | PHE_HHAIR_PROP_POP_POLLUTING_FUELS     | Proportion of population with primary reliance on polluting fuels (%)                                   |
 
 
-    - GDP dataset: 
-        - The GDP data is collected from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv). It contains GDP data of every country by year with following columns: Country Name, Country Code, Indicator Name, Indicator Code, Year and contains 265 rows in csv format.   
+   - GDP dataset: 
+      - The GDP data is collected from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv). It contains GDP data of every country by year with following columns: Country Name, Country Code, Indicator Name, Indicator Code, Year and contains 265 rows in csv format.   
 
 ## Requirements
 See `requirements.txt`.
