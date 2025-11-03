@@ -101,8 +101,8 @@ Obesity/
 The project uses WHO Global Health Observatory data:
 
 ### Main Datasets
-- **who_obesity_data.csv** - Main dataset (~689 MB, managed with Git LFS)
-- **who_obesity_core_data.csv** - Core obesity data subset (~24 MB)
+- **who_obesity_data.csv** - Main dataset (~689 MB, managed with Git LFS) (https://www.who.int/data/gho)
+- **who_obesity_core_data.csv** - Core obesity data subset (~46.3 MB) (https://github.com/SU-MSDS-Obesity-Class-2025/Obesity/blob/main/data/who_obesity_core_data.csv)
 - **GDP_data.csv** - GDP data from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv)
 
 ### Metadata (Indicator Definitions)
@@ -111,6 +111,32 @@ The project uses WHO Global Health Observatory data:
 - **who_indicators_obesity_core.csv** - Core indicator definitions (19 indicators)
 
 ### Describtion
-The final dataset combines information from World Health Organization (WHO) and World Bank, containing socioeconomic and lifestyle data across all countries. All data are stored in CSV format and merged into a single DataFrame for analysis.
+   - The data in these datasets is from (1990-2022) year.
+   - WHO Obesity dataset: 
+      - The data in this dataset is collected from Global Health Observatory (GHO)
+          (Web source: https://www.who.int/data/gho). The GHO is the WHO's main portal for health-related statistics, providing access to over 1,000 indicators out of them we have collected data for 9 most relavant indicators  
+      - It contains Date, Dim1, Dim1Type, Dim2, Dim2Type, Dim3, Dim3Type, High, Id, IndicatorCode, IndicatorName, Low, NumericValue, ParentLocation, ParentLocationCode, SpatialDim, SpatialDimType, TimeDim, TimeDimType, TimeDimensionBegin, TimeDimensionEnd, TimeDimensionValue, Value as columns. It contains 146334 rows in csv format. 
+
+   
+   Most Relavent Indicators:
+
+    | Indicator Code                         | Indicator Name                                                                                          |
+    |----------------------------------------|---------------------------------------------------------------------------------------------------------|
+    | NCD_BMI_30A.                           | Prevalence of obesity among adults, BMI ≥ 30 (age-standardized estimate, %).                            |
+    | NCD_DIABETES_PREVALENCE_CRUDE          | Prevalence of diabetes, crude (%)                                                                       |
+    | NCD_GLUC_03                            | Raised fasting blood glucose (≥ 7.0 mmol/L) (age-standardized, %)                                       |
+    | NCD_PAA                                | Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate, %) |
+    | SI_POV_DAY1                            | Proportion of population below the international poverty line (US$1.90/day, %)                          |
+    | WHS5_512                               | Population using solid fuels (%).                                                                       |
+    | WHOSIS_000001                          | Life expectancy at birth (years)                                                                        |
+    | WSH_SANITATION_BASIC                   | Population using at least basic sanitation services (%)                                                 |
+    | PHE_HHAIR_PROP_POP_POLLUTING_FUELS     | Proportion of population with primary reliance on polluting fuels (%)                                   |
+
+
+    - GDP dataset: 
+        - The GDP data is collected from World Bank Group (https://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv). It contains GDP data of every country by year with following columns: Country Name, Country Code, Indicator Name, Indicator Code, Year and contains 265 rows in csv format.   
+
+## Requirements
+See `requirements.txt`.
 
 
