@@ -13,6 +13,32 @@
 ## Quick Start
 
 ### Local Setup
+
+#### Mac Setup
+```bash
+# Install Homebrew (if not already installed)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Install Git LFS via Homebrew
+brew install git-lfs
+
+# Clone the repository
+git clone https://github.com/SU-MSDS-Obesity-Class-2025/Obesity.git
+cd Obesity
+
+# Initialize Git LFS and pull large files
+git lfs install
+git lfs pull
+
+# Install Python dependencies (use pip3 if needed)
+pip3 install -r requirements.txt
+
+# Install nbstripout (strips notebook outputs from Git commits)
+pip3 install nbstripout
+nbstripout --install
+```
+
+#### Windows/Linux Setup
 ```bash
 # Clone the repository
 git clone https://github.com/SU-MSDS-Obesity-Class-2025/Obesity.git
@@ -30,7 +56,7 @@ pip install nbstripout
 nbstripout --install
 ```
 
-**Note:** Git LFS is required to download the large data file (`who_obesity_data.csv`). 
+**Note:** Git LFS is required to download the large data file (`who_obesity_data.csv`). On Windows, download Git LFS from [git-lfs.github.com](https://git-lfs.github.com). 
 
 
 ### Google Colab Setup
