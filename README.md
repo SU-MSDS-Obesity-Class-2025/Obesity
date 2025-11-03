@@ -131,6 +131,7 @@ The project uses WHO Global Health Observatory data:
     | WHOSIS_000001                          | Life expectancy at birth (years)                                                                        |
     | WSH_SANITATION_BASIC                   | Population using at least basic sanitation services (%)                                                 |
     | PHE_HHAIR_PROP_POP_POLLUTING_FUELS     | Proportion of population with primary reliance on polluting fuels (%)                                   |
+    | GDP_CURRENT_USD                        | GDP per capita (World Bank)                                                                             | 
 
 
    - GDP dataset: 
