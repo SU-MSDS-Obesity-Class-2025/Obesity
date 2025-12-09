@@ -6,7 +6,7 @@
 
 - **Objective:** This project aims to examine how economic status, lifestyle behaviors, and health indicators relate to national obesity rates. By analyzing these variables across countries, we seek to identify key predictors of obesity and understand how social and economic development influence population health outcomes.
 - **Domain:** Health
-- **Key Techniques:** Regression, Data Imputation, Exploratory Data Analysis
+- **Key Techniques:** Regression, Data Imputation, Exploratory Data Analysis, ANOVA
 
 
 
@@ -139,3 +139,26 @@ The project uses WHO Global Health Observatory data:
 See `requirements.txt`.
 
 
+## Analysis
+
+The analysis combines WHO data with GDP information for all available countries. After standardizing formats, filtering to a single year, and removing entries missing BMI values, the WHO indicators are reshaped into a wide country-level dataset and merged with GDP by country code. Exploratory steps include summary statistics, missingness checks, and a correlation heatmap to identify socioeconomic variables most closely linked to obesity.
+
+Missing predictor values are imputed. A cleaned dataset is exported as complete_indicators_data.csv. Modeling moves from simple linear and nonlinear regressions on individual predictors to multivariate regression using selected socioeconomic indicators. Model performance is assessed using R squared and ANOAVA, with residual plots and standardized coefficient for easy interpretation. 
+
+
+## Result
+
+The analysis shows that only blood glucose levels and physical activity remained meaningful predictors of national obesity rates after evaluating the full set of socioeconomic indicators. When the model was reduced to just these two variables, both stayed statistically significant and continued to explain a substantial share of the variation across countries. This suggests that metabolic health and population-level activity capture the core relationships present in the data, while many other indicators contribute little once these two factors are included.
+
+
+## Authors
+- Vincent Chan - [@vtc03](https://github.com/vtc03)
+- 
+-
+
+
+## Acknowledgements
+
+- Tools/libraries used: pandas, NumPy, matplotlib, seaborn, statsmodels, 
+- Tutorials or papers referenced
+- Inspiration or collaborators: Brian Fischer
