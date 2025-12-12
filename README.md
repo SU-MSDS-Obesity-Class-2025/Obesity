@@ -154,7 +154,7 @@ The analysis shows that only blood glucose levels and physical activity remained
 ## Authors
 - Vincent Chan - [@vtc03](https://github.com/vtc03)
 - Raja Sandeep Mukkala - [@sandeepmukkala](https://github.com/sandeepmukkala)
--
+- Jack Lichwa - [@jacklichwa](https://github.com/JLichwa80)
 
 
 ## Acknowledgements
